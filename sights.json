@@ -1,0 +1,2136 @@
+{
+  "metadata": {
+    "total_sights": 75,
+    "sources": [
+      "gemini.md",
+      "gemini2.md",
+      "gemini3.md",
+      "claude.md",
+      "claude_hidden_gems.md",
+      "chatgpt.md"
+    ],
+    "generated": "2026-01-16",
+    "version": "4.0",
+    "note": "Added geocoded coordinates (lat/lng) for map view."
+  },
+  "sights": [
+    {
+      "unesco": true,
+      "nearby_food": [
+        "Aux Armes de Bruxelles"
+      ],
+      "architectural_style": [
+        "Gothic",
+        "Baroque"
+      ],
+      "booking_notes": "Recommended for Town Hall tours",
+      "neighborhood": "City Center",
+      "sources": [
+        "chatgpt.md (must-see)",
+        "claude.md (must-see)",
+        "gemini.md"
+      ],
+      "tips": "Take in the lavish gilt details by day and return at night when the buildings are beautifully illuminated. Early morning or late evening offers quieter moments before crowds gather. | Visit both day and night. The evening illumination transforms the square. First Sunday of the month offers free museum entry.",
+      "why_visit": "Often hailed as one of the world's most beautiful squares, the Grand-Place has been the heart of Brussels since the 12th century. Lined with opulent guildhall facades (mostly rebuilt in Baroque style after a 1695 bombardment) and anchored by the 15th-century Town Hall, a Gothic masterpiece with a soaring 96m spire. | One of the most beautiful squares in Europe. The breathtaking ensemble of ornate guild houses surrounding the Gothic Town Hall creates an unforgettable impression, especially when illuminated at night. | Arguably the most beautiful square in Europe, showcasing a jaw-dropping blend of Gothic (Town Hall) and Baroque (Guildhalls) architecture.",
+      "type": "Historic Landmark / Square",
+      "historical_context": "Originally a marketplace since the 12th century. Almost entirely destroyed by French bombardment in 1695 and rebuilt spectacularly by the guilds. UNESCO World Heritage since 1998. | A marketplace since the 11th century, almost entirely destroyed by French bombardment in 1695. Rebuilt by the Brussels guilds within just four years. UNESCO World Heritage since 1998. | Originally a medieval market, it was bombarded by the French in 1695 and rebuilt in a spectacular display of wealth by the city's guilds.",
+      "address": "Grand-Place, 1000 Brussels",
+      "priority": "must-see",
+      "visit_duration_minutes": 45,
+      "booking_required": false,
+      "name": "Grand-Place (Grote Markt)",
+      "price": "Free (square); €10 for Town Hall tours",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Brussels%2C_townhall_oeg2043-00090_foto3_2015-06-07_08.38.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Brussels%2C_townhall_oeg2043-00090_foto3_2015-06-07_08.38.jpg/500px-Brussels%2C_townhall_oeg2043-00090_foto3_2015-06-07_08.38.jpg",
+      "wikipedia_title": "Brussels Town Hall",
+      "latitude": 50.8467139,
+      "longitude": 4.3525151
+    },
+    {
+      "unesco": true,
+      "nearby_food": [
+        "Parvis de Saint-Gilles cafés"
+      ],
+      "architectural_style": [
+        "Art Nouveau"
+      ],
+      "booking_notes": "Required (online). Book well in advance as capacity is limited to 15 people every 15 minutes. | MANDATORY well in advance (weeks). They are very strict. | Advance booking is required (the museum's popularity and small size means they limit entries). Reserve a time slot online, especially for weekends.",
+      "sources": [
+        "claude.md (must-see)",
+        "gemini.md",
+        "chatgpt.md (recommended)"
+      ],
+      "tips": "No photography allowed inside. Free first Sunday of month. | Photos are not allowed inside, so take time to mentally soak up the details. If Horta inspires you, consider a self-guided walk in the neighborhood to spot other Art Nouveau facades; maps are available.",
+      "neighborhood": "Saint-Gilles",
+      "why_visit": "The personal home and studio of Victor Horta, father of Art Nouveau. Every detail, from the spiral staircase to door handles, showcases his revolutionary total design approach. | Victor Horta's private home and studio. It is the absolute pinnacle of Art Nouveau—every handle, mosaic, and banister was designed to harmonize. | Set in the actual home and studio of Victor Horta – the pioneering architect of Art Nouveau – this museum is a must for architecture lovers. The two adjoined townhouses (1898–1901) retain Horta's original flowing interiors: elegant staircases, stained-glass skylights, arabesque woodwork and mosaic floors.",
+      "type": "House Museum",
+      "historical_context": "Built 1898-1901 as Horta's own residence and workshop. The architect lived here until 1919. Saved from demolition in the 1960s and opened as a museum in 1969. | This house, along with three other Horta buildings, is recognized as a UNESCO World Heritage site for its architectural significance.",
+      "address": "Rue Américaine 25, 1060 Saint-Gilles",
+      "priority": "must-see",
+      "visit_duration_minutes": 60,
+      "booking_required": true,
+      "name": "Horta Museum",
+      "price": "€14 adults; €6 students; €3.50 under 18",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Hortamuseum.tif",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hortamuseum.tif/lossy-page1-400px-Hortamuseum.tif.jpg",
+      "wikipedia_title": "Horta Museum",
+      "latitude": 50.8241974,
+      "longitude": 4.3554361
+    },
+    {
+      "name": "L'Archiduc",
+      "type": "Bar",
+      "address": "Rue Antoine Dansaert 6, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "Not a museum, but a legendary Art Deco bar that has barely changed since the 1930s. Sit in the mezzanine, order a drink, and soak in the authentic atmosphere.",
+      "historical_context": "Barely changed since the 1930s",
+      "architectural_style": [
+        "Art Deco"
+      ],
+      "visit_duration_minutes": 60,
+      "priority": "must-see",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": "Evening",
+      "tips": "Best experienced in the evening",
+      "nearby_food": null,
+      "sources": [
+        "gemini3.md"
+      ],
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.8490904,
+      "longitude": 4.3475483
+    },
+    {
+      "name": "Maison Communale de Forest (Forest Town Hall)",
+      "type": "Government Building",
+      "address": "Rue du Curé 2, 1190 Forest",
+      "neighborhood": "Forest",
+      "why_visit": "An Art Deco Masterpiece by Jean-Baptiste Dewin (1938). It is massive, imposing, and cinematic. The interior features stained glass and geometric marble patterns.",
+      "historical_context": "Built 1938 by Jean-Baptiste Dewin",
+      "architectural_style": [
+        "Art Deco"
+      ],
+      "visit_duration_minutes": 30,
+      "priority": "must-see",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini3.md"
+      ],
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.8111936,
+      "longitude": 4.318898
+    },
+    {
+      "name": "Manneken Pis",
+      "type": "Iconic Fountain Statue",
+      "address": "Corner of Rue de l'Étuve and Rue du Chêne, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "This cheeky 61 cm bronze statue of a little boy urinating is one of Brussels' most famous symbols. It embodies the Brussels spirit of humor and irreverence, inspiring countless legends and over 1,000 costumes gifted from around the world.",
+      "historical_context": "The original Manneken Pis dates to 1619 (current version is a replica; the statue has been repeatedly stolen and recovered). The statue often dons outfits (about 130 days a year for ceremonies or holidays).",
+      "architectural_style": null,
+      "visit_duration_minutes": 10,
+      "priority": "must-see",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": "Don't be surprised by its small size. Nearby, find Jeanneke Pis (a girl fountain in a hidden alley) and Zinneke Pis (a peeing dog statue).",
+      "nearby_food": null,
+      "sources": [
+        "chatgpt.md (must-see)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bruxelles_Manneken_Pis_cropped.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruxelles_Manneken_Pis_cropped.jpg/500px-Bruxelles_Manneken_Pis_cropped.jpg",
+      "wikipedia_title": "Manneken Pis",
+      "latitude": 50.845,
+      "longitude": 4.3499
+    },
+    {
+      "name": "Mont des Arts (Kunstberg)",
+      "type": "Urban Landscape / Viewpoint",
+      "address": "Mont des Arts, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "The geometric garden offers the classic postcard view of Brussels. It connects the lower working-class city with the upper aristocratic city.",
+      "historical_context": null,
+      "architectural_style": null,
+      "visit_duration_minutes": 30,
+      "priority": "must-see",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": "Go to the rooftop of the KBR (Royal Library) for a quieter, elevated view and a look at the brutalist/modernist architecture of the library itself.",
+      "nearby_food": null,
+      "sources": [
+        "gemini.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mont_des_Arts%2C_Brussels%2C_Belgium.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mont_des_Arts%2C_Brussels%2C_Belgium.jpg/500px-Mont_des_Arts%2C_Brussels%2C_Belgium.jpg",
+      "wikipedia_title": "Mont des Arts",
+      "latitude": 50.8438626,
+      "longitude": 4.3567662
+    },
+    {
+      "name": "Musical Instruments Museum (MIM)",
+      "type": "Museum",
+      "address": "Rue Montagne de la Cour 2, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "One of Brussels' most famous Art Nouveau facades. The 'Old England' building is a masterpiece of iron and glass. | Housed in the former 'Old England' department store – an 1899 Art Nouveau building with a splendid cast-iron facade – the MIM contains over 8,000 instruments. The museum provides headphone audio so you can hear the exotic instruments as you view them. | 9,000+ instruments from around the world in a stunning 1899 Art Nouveau department store. Interactive headphones let you hear instruments as you view them.",
+      "historical_context": "Built in 1899 by Paul Saintenoy as a department store. | Built in 1899 by Paul Saintenoy as a department store. The collection ranges from ancient ethnographic instruments to rare keyboards and Belgian inventions (like the saxophone, created by Adolphe Sax). | The Old England building was designed by Paul Saintenoy in 1899. The museum collection dates to 1877 and moved here in 2000. Contains the world's oldest surviving saxophone.",
+      "architectural_style": [
+        "Art Nouveau",
+        "Iron and Glass"
+      ],
+      "visit_duration_minutes": 90,
+      "priority": "must-see",
+      "booking_required": true,
+      "booking_notes": "Recommended for weekends",
+      "price": "€15 adults; €13 seniors; free under 18",
+      "opening_hours": null,
+      "tips": "The rooftop café offers one of the best city panoramas – enjoy a coffee or lunch with views over the historic center. It's sometimes open to non-museum visitors. | The rooftop restaurant offers excellent views over Brussels. The audio experience is unique, so don't rush.",
+      "nearby_food": [
+        "Rooftop café with panoramic views",
+        "Rooftop restaurant with panoramic views",
+        "Mont des Arts area"
+      ],
+      "sources": [
+        "gemini.md",
+        "chatgpt.md (recommended)",
+        "claude.md (must-see)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Old_England_facade%2C_Brussels_%28DSCF7544%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Old_England_facade%2C_Brussels_%28DSCF7544%29.jpg/500px-Old_England_facade%2C_Brussels_%28DSCF7544%29.jpg",
+      "wikipedia_title": "Musical Instruments Museum, Brussels",
+      "unesco": false,
+      "latitude": 50.8428279,
+      "longitude": 4.3587843
+    },
+    {
+      "name": "Palais de Justice (Palace of Justice)",
+      "type": "Monument / Government Building",
+      "address": "Place Poelaert, 1000 Brussels",
+      "neighborhood": "Marolles/Sablon",
+      "why_visit": "It was the largest building in the world when finished in 1883, larger than St. Peter's in Rome. It is a megalomaniacal mix of Greco-Roman styles.",
+      "historical_context": "Completed in 1883, was the largest building in the world at the time",
+      "architectural_style": [
+        "Neoclassical"
+      ],
+      "visit_duration_minutes": 30,
+      "priority": "must-see",
+      "booking_required": false,
+      "booking_notes": "Walk right in (security check required). The interior lobby ('Salle des Pas Perdus') is free to enter and overwhelmingly huge.",
+      "price": null,
+      "opening_hours": null,
+      "tips": "The interior lobby feels like a movie set.",
+      "nearby_food": null,
+      "sources": [
+        "gemini2.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Palais_de_Justice_from_Hilton.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Palais_de_Justice_from_Hilton.jpg/500px-Palais_de_Justice_from_Hilton.jpg",
+      "wikipedia_title": "Palace of Justice, Brussels",
+      "latitude": 50.8376287,
+      "longitude": 4.3526056
+    },
+    {
+      "nearby_food": [
+        "Museum cafe",
+        "Terraces in Mont des Arts area",
+        "Museum restaurant",
+        "Options on Place Royale"
+      ],
+      "architectural_style": [
+        "Neoclassical"
+      ],
+      "booking_notes": "Recommended",
+      "sources": [
+        "chatgpt.md (must-see)",
+        "claude.md (must-see)"
+      ],
+      "tips": "Start at the Magritte Museum (Place Royale) and work downward, as its elevator ride itself reveals a Magritte mural floor by floor. Arrive when doors open, and consider a Brussels Museum Pass if you plan multiple museum visits. | Don't try to see everything. Focus on the Flemish Primitives and Bruegel rooms.",
+      "neighborhood": "Royal Quarter",
+      "why_visit": "Brussels' premier art museum complex houses an encyclopedic collection across several institutions. The Old Masters Museum features Flemish Primitives and Bruegel masterpieces, while the attached Magritte Museum holds the world's largest collection of Belgian surrealist René Magritte's works (over 230 pieces). | Exceptional collection of Flemish masters including Bruegel, Rubens, Van der Weyden, Bosch, and Memling. The Bruegel collection is one of the world's finest.",
+      "type": "Art Museum Complex",
+      "historical_context": "These grand museums opened in 1887, reflecting Belgium's artistic heritage. The Fin-de-Siècle Museum and a Modern art selection are also on-site. | Founded 1801 under Napoleon's rule. The collection spans from the 15th to 18th centuries. Highlights include Bruegel's 'The Fall of the Rebel Angels' and 'The Census at Bethlehem.'",
+      "address": "Rue de la Régence 3, 1000 Brussels",
+      "priority": "must-see",
+      "visit_duration_minutes": 150,
+      "booking_required": true,
+      "name": "Royal Museums of Fine Arts",
+      "price": "€10; combo with Magritte available",
+      "opening_hours": "Closed Mondays",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Mus%C3%A9es_Royaux_des_Beaux-Arts_Belgique_1101.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mus%C3%A9es_Royaux_des_Beaux-Arts_Belgique_1101.jpg/500px-Mus%C3%A9es_Royaux_des_Beaux-Arts_Belgique_1101.jpg",
+      "wikipedia_title": "Royal Museums of Fine Arts of Belgium",
+      "latitude": 50.8415295,
+      "longitude": 4.358156
+    },
+    {
+      "nearby_food": [
+        "Bar du Baron restaurant on-site",
+        "Flagey area nearby"
+      ],
+      "architectural_style": [
+        "Art Deco"
+      ],
+      "booking_notes": "Recommended for guided tours",
+      "sources": [
+        "claude.md (must-see)",
+        "gemini.md"
+      ],
+      "tips": "The Bar du Baron restaurant is worth a visit. Don't miss the mosaic-adorned swimming pool terrace. 2025 features a special Art Deco exhibition.",
+      "neighborhood": "Ixelles",
+      "why_visit": "One of the finest Art Deco houses in Europe. Marble halls, exotic wood interiors, swimming pool, and beautiful gardens. Now a cultural center with rotating exhibitions. | A masterpiece of Art Deco. Built for a Baron aged 21, later occupied by the Gestapo, then the Soviet Embassy. It has been restored to perfection. The pool out back is iconic.",
+      "type": "Historic House / Exhibition Space",
+      "historical_context": "Built 1930-1934 by Swiss architect Michel Polak for 21-year-old Baron Louis Empain. Later served as USSR embassy and RTL headquarters. Restored 2006-2010 by Boghossian Foundation, winning Europa Nostra prize. | Built for a 21-year-old Baron, later occupied by Gestapo, then Soviet Embassy",
+      "address": "Avenue Franklin Roosevelt 67, 1050 Ixelles",
+      "priority": "must-see",
+      "visit_duration_minutes": 75,
+      "booking_required": true,
+      "name": "Villa Empain (Boghossian Foundation)",
+      "price": "€10; guided tours €100 for groups",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bruxelles_-_Fondation_Boghossian-Empain.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bruxelles_-_Fondation_Boghossian-Empain.jpg/500px-Bruxelles_-_Fondation_Boghossian-Empain.jpg",
+      "wikipedia_title": "Villa Empain",
+      "latitude": 50.8125,
+      "longitude": 4.3924
+    },
+    {
+      "nearby_food": [
+        "Panoramic restaurant at the top sphere",
+        "Restaurant in upper sphere with panoramic views"
+      ],
+      "architectural_style": [
+        "Retro-Futurism",
+        "Modernist"
+      ],
+      "booking_notes": "Recommended (timed entry)",
+      "neighborhood": "Laeken/Heysel",
+      "sources": [
+        "chatgpt.md (must-see)",
+        "claude.md (must-see)",
+        "gemini2.md"
+      ],
+      "tips": "Go early to beat the lines, or visit at sunset for stunning cityscape views. Accessible by Metro line 6 to Heysel. | Arrive early to avoid queues. The light shows inside the tubes are mesmerizing. Includes 80 steps up and 167 down. | Skip the line for the Atomium interior if you are short on time (the view is okay, but the lines are long). Instead, visit the Design Museum next door, which houses the 'Plasticarium'—a colorful, fun collection of plastic design from the 60s and 70s.",
+      "why_visit": "The Atomium is an architectural icon of Brussels, built as the showpiece of Expo 1958. Shaped like a unit cell of iron magnified 165 billion times, it consists of nine spherical chambers connected by tubes. 102 meters tall with steel-clad spheres offering fantastic views over the city. | Brussels' most iconic landmark: a 102-meter iron crystal magnified 165 billion times. Offers stunning panoramic views and immersive exhibitions inside its spheres. | The icon of the 1958 World Fair. It is 'Retro-Futurism' at its best.",
+      "type": "Architectural Icon / Museum",
+      "historical_context": "Built for Expo 1958 as a symbol of post-war optimism and scientific progress. Inside, six spheres house science exhibits, historic Expo memorabilia, and a panoramic restaurant at the top sphere. | Built for the 1958 World's Fair (Expo 58) as a symbol of scientific progress. Designed by engineer André Waterkeyn. Fully renovated 2004-2006.",
+      "address": "Square de l'Atomium, 1020 Brussels",
+      "priority": "highly-recommended",
+      "visit_duration_minutes": 60,
+      "booking_required": true,
+      "name": "Atomium & Design Museum Brussels",
+      "price": "€16 adults; combined ticket with Design Museum available",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Brussels_-_Atomium_2022.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brussels_-_Atomium_2022.jpg/500px-Brussels_-_Atomium_2022.jpg",
+      "wikipedia_title": "Atomium",
+      "latitude": 50.8948,
+      "longitude": 4.3417
+    },
+    {
+      "nearby_food": [
+        "Frit Flagey (legendary frites)",
+        "Many bars and restaurants around the square",
+        "Café Belga (ground floor of the Flagey building)"
+      ],
+      "architectural_style": [
+        "Art Deco"
+      ],
+      "booking_notes": "For concerts only",
+      "sources": [
+        "claude.md (recommended)",
+        "gemini.md"
+      ],
+      "tips": "Best viewed at dusk when lights reflect on the ponds. Check their concert schedule.",
+      "neighborhood": "Ixelles",
+      "why_visit": "Iconic 'ocean liner' shaped building with world-class acoustics in Studio 4. Reflects beautifully on the Ixelles Ponds at night. The Flagey area is one of Brussels' most vibrant neighborhoods. | A massive Art Deco 'ocean liner' designed by Joseph Diongre (1938). It was the former national radio building.",
+      "type": "Architectural Landmark / Cultural Center",
+      "historical_context": "Built 1935-1938 as Belgium's National Radio Broadcasting headquarters. Designed by Joseph Diongre. Victor Horta was on the jury that selected the design. | Built 1938 as national radio building",
+      "address": "Place Eugène Flagey, 1050 Ixelles",
+      "priority": "highly-recommended",
+      "visit_duration_minutes": 30,
+      "booking_required": false,
+      "name": "Flagey Building",
+      "price": "Free to view; concert tickets vary",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Ancien_Institut_national_de_Radiodiffusion_-_vue_d%27ensemble.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ancien_Institut_national_de_Radiodiffusion_-_vue_d%27ensemble.JPG/500px-Ancien_Institut_national_de_Radiodiffusion_-_vue_d%27ensemble.JPG",
+      "wikipedia_title": "Flagey Building",
+      "latitude": 50.8276115,
+      "longitude": 4.3715771
+    },
+    {
+      "name": "Hotel Hannon",
+      "type": "House Museum",
+      "address": "Avenue de la Jonction 1, 1060 Brussels",
+      "neighborhood": "Saint-Gilles",
+      "why_visit": "Recently reopened as a museum. Unlike Horta's organic style, this shows a more French/symbolist Art Nouveau style.",
+      "historical_context": null,
+      "architectural_style": [
+        "Art Nouveau"
+      ],
+      "visit_duration_minutes": 45,
+      "priority": "highly-recommended",
+      "booking_required": true,
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Saint-Gilles_Brunfaut_050810_%2815%29.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Saint-Gilles_Brunfaut_050810_%2815%29.JPG/500px-Saint-Gilles_Brunfaut_050810_%2815%29.JPG",
+      "wikipedia_title": "Hôtel Hannon",
+      "latitude": 50.8208612,
+      "longitude": 4.3522648
+    },
+    {
+      "nearby_food": [
+        "Cafeteria inside",
+        "Many options in the European Quarter"
+      ],
+      "architectural_style": [
+        "Art Deco"
+      ],
+      "sources": [
+        "claude.md (recommended)",
+        "gemini3.md"
+      ],
+      "tips": "The tablet guide is excellent and free. Combine with a walk through Leopold Park.",
+      "neighborhood": "EU Quarter",
+      "why_visit": "Fascinating free museum exploring European history through interactive exhibits. Housed in the beautiful Art Deco former Eastman Dental Hospital in Leopold Park. | Housed in the former Eastman Dental Clinic (built by the Kodak founder). The building is Art Deco; the museum inside is a fascinating, modern look at the history of the continent (and free).",
+      "type": "History Museum",
+      "historical_context": "Building designed by Michel Polak in 1933-1935 as a dental institute for underprivileged children. Converted to museum in 2017. Leopold Park itself was Brussels' first public park. | Former Eastman Dental Clinic",
+      "address": "Rue Belliard 135, 1000 Brussels",
+      "priority": "highly-recommended",
+      "visit_duration_minutes": 120,
+      "booking_required": false,
+      "name": "House of European History (Eastman Building)",
+      "price": "Free",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/House_of_European_History_-_former_Eastman_Institute_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/House_of_European_History_-_former_Eastman_Institute_01.jpg/500px-House_of_European_History_-_former_Eastman_Institute_01.jpg",
+      "wikipedia_title": "House of European History",
+      "latitude": 50.8393828,
+      "longitude": 4.378636
+    },
+    {
+      "name": "Notre-Dame du Sablon",
+      "type": "Church",
+      "address": "Rue des Sablons, 1000 Brussels",
+      "neighborhood": "Sablon",
+      "why_visit": "A late Gothic masterpiece. It is lighter, more delicate, and more decorative than the Cathedral. The surrounding square (Petit Sablon) is lined with bronze statues of the medieval guilds.",
+      "historical_context": null,
+      "architectural_style": [
+        "Gothic"
+      ],
+      "visit_duration_minutes": 30,
+      "priority": "highly-recommended",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini3.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ko%C5%9Bci%C3%B3%C5%82_Notre-Dame_du_Sablon_w_Brukseli.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ko%C5%9Bci%C3%B3%C5%82_Notre-Dame_du_Sablon_w_Brukseli.jpg/500px-Ko%C5%9Bci%C3%B3%C5%82_Notre-Dame_du_Sablon_w_Brukseli.jpg",
+      "wikipedia_title": "Church of Our Lady of Victories at the Sablon",
+      "latitude": 50.8399352,
+      "longitude": 4.3556976
+    },
+    {
+      "nearby_food": [
+        "Museum restaurant",
+        "Cafés along Rue Montagne de la Cour"
+      ],
+      "architectural_style": [
+        "Neoclassical"
+      ],
+      "booking_notes": "Recommended (online) | Time-slot booking is essential",
+      "sources": [
+        "claude.md (must-see)",
+        "gemini.md"
+      ],
+      "tips": "Start from the top floor and work down chronologically.",
+      "neighborhood": "Royal Quarter",
+      "why_visit": "World's largest collection of René Magritte's surrealist works, with over 230 paintings, drawings, sculptures, and films. An essential pilgrimage for surrealism enthusiasts. | Houses the world's largest collection of the surrealist René Magritte. Essential for understanding Belgian 'surrealist' culture.",
+      "type": "Art Museum (Royal Museums wing)",
+      "historical_context": "Opened in 2009 in the 18th-century Altenloh Hotel. Part of the Royal Museums of Fine Arts. 2024 marks 100 years of surrealism.",
+      "address": "Rue de la Régence 3, 1000 Brussels",
+      "priority": "highly-recommended",
+      "visit_duration_minutes": 105,
+      "booking_required": true,
+      "name": "Royal Museums: Magritte",
+      "price": "€10; combo tickets available with Old Masters Museum",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG/500px-Belgique_-_Bruxelles_-_H%C3%B4tel_du_Lotto_-_02.JPG",
+      "wikipedia_title": "Magritte Museum",
+      "latitude": 50.8415295,
+      "longitude": 4.358156
+    },
+    {
+      "name": "Royal Museums: Old Masters",
+      "type": "Art Museum (Royal Museums wing)",
+      "address": "Rue de la Régence 3, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "While the Magritte Museum (next door) gets the hype, this holds the 'Heavy Hitters': Rubens, Bruegel the Elder, and Van Dyck. The 'Fall of Icarus' is here.",
+      "historical_context": null,
+      "architectural_style": null,
+      "visit_duration_minutes": 120,
+      "priority": "highly-recommended",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini3.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg/500px-Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg",
+      "wikipedia_title": "Old Master",
+      "latitude": 50.8415295,
+      "longitude": 4.358156
+    },
+    {
+      "name": "Train World",
+      "type": "Museum",
+      "address": "Place Princesse Elisabeth 5, 1030 Schaerbeek",
+      "neighborhood": "Schaerbeek",
+      "why_visit": "Not just for train nerds. It is located in the old Schaerbeek railway station (a Flemish Neo-Renaissance gem). The museum scenography is by comic artist François Schuiten, creating a dark, steampunk-like atmosphere.",
+      "historical_context": null,
+      "architectural_style": [
+        "Neo-Renaissance"
+      ],
+      "visit_duration_minutes": 120,
+      "priority": "highly-recommended",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini2.md"
+      ],
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.8777486,
+      "longitude": 4.3791054
+    },
+    {
+      "name": "WIELS (Former Wielemans-Ceuppens Brewery)",
+      "type": "Contemporary Art Center / Industrial Heritage",
+      "address": "Avenue Van Volxem 354, 1190 Forest",
+      "neighborhood": "Forest",
+      "why_visit": "One of the few examples of Modernist Industrial architecture (1930). The brewing hall features massive copper vats still in situ. It now hosts cutting-edge contemporary art exhibitions (no permanent collection).",
+      "historical_context": null,
+      "architectural_style": [
+        "Modernist",
+        "Art Deco"
+      ],
+      "visit_duration_minutes": 90,
+      "priority": "highly-recommended",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini2.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Wiels_brussels_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wiels_brussels_01.jpg/500px-Wiels_brussels_01.jpg",
+      "wikipedia_title": "Wiels",
+      "latitude": 50.8244011,
+      "longitude": 4.3256375
+    },
+    {
+      "nearby_food": [
+        "BOZAR Brasserie on-site"
+      ],
+      "architectural_style": [
+        "Art Deco"
+      ],
+      "booking_notes": "Recommended for popular exhibitions",
+      "sources": [
+        "claude.md (recommended)",
+        "gemini3.md"
+      ],
+      "tips": "Check their exhibition calendar before visiting. The building itself is worth admiring even from outside. | Visit duration 2.5 hours if seeing exhibitions",
+      "neighborhood": "City Center",
+      "why_visit": "Victor Horta's Art Deco masterpiece, marking his transition from Art Nouveau. World-class exhibition space and concert hall. The Henry Le Boeuf Hall has extraordinary acoustics. | Victor Horta's transition from Art Nouveau to Art Deco. Unlike his organic houses, this is a massive, geometric cultural temple built into the side of the hill.",
+      "type": "Cultural Center / Concert Hall",
+      "historical_context": "Built 1923-1929, commissioned by banker Henry Le Boeuf with Brussels mayor Adolphe Max. Horta's final major work, showing his evolution toward geometric modernism after returning from US exile. | Victor Horta's later work showing transition to Art Deco",
+      "address": "Rue Ravenstein 23, 1000 Brussels",
+      "priority": "recommended",
+      "visit_duration_minutes": 90,
+      "booking_required": true,
+      "name": "BOZAR (Centre for Fine Arts)",
+      "price": "€16-18 for exhibitions; concert tickets vary",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/BOZAR_%28DSCF7462%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BOZAR_%28DSCF7462%29.jpg/500px-BOZAR_%28DSCF7462%29.jpg",
+      "wikipedia_title": "Centre for Fine Arts, Brussels",
+      "latitude": 50.8442884,
+      "longitude": 4.3594749
+    },
+    {
+      "nearby_food": [
+        "Restaurant inside basilica"
+      ],
+      "architectural_style": [
+        "Art Deco",
+        "Byzantine Revival"
+      ],
+      "neighborhood": "Koekelberg",
+      "sources": [
+        "chatgpt.md (recommended)",
+        "claude.md (recommended)",
+        "gemini2.md"
+      ],
+      "tips": "The panoramic view from the dome's exterior gallery (~52m high) offers a 360° view over Brussels and beyond. Come on a clear day. Accessible by Metro Simonis then a 10-min walk up through Elisabeth Park. | The panorama view is often less crowded than Atomium. Houses two museums: Modern Religious Art and Black Sisters Museum. | Take the elevator to the gallery under the dome (53m high) for a stunning panoramic view of Brussels that rivals the Atomium but is cheaper and less crowded.",
+      "why_visit": "Often overlooked due to its outlying location, Koekelberg Basilica is actually the world's largest Art Deco building and the fifth-largest church in the world. Built from 1905–1970 in a bold mix of Art Deco and neo-Byzantine style, it features a massive green copper dome visible on the Brussels skyline. | The world's largest Art Deco religious building and fifth largest church globally. The dome platform offers 360° views of Brussels rivaling the Atomium at a fraction of the cost. | It is the fifth-largest church in the world and an Art Deco behemoth. Unlike the Gothic cathedrals, this uses reinforced concrete, terracotta, and geometric stained glass on a massive scale.",
+      "type": "Art Deco Mega-Church / Viewpoint",
+      "historical_context": "The sheer scale is jaw-dropping – the basilica can hold 3,500 people, and its nave and dome showcase 20th-century design on a grand scale (reinforced concrete structure clad in sleek terracotta and brick). | Leopold II laid the first stone in 1905 for Belgian independence's 75th anniversary. WWI and WWII interrupted construction. Final design by Albert Van Huffel won 1925 Paris Expo prize. Completed 1970.",
+      "address": "Parvis de la Basilique 1, 1081 Koekelberg",
+      "priority": "recommended",
+      "visit_duration_minutes": 60,
+      "booking_required": false,
+      "name": "Basilica of the Sacred Heart (Basilique de Koekelberg)",
+      "price": "Free (basilica); small fee for panorama elevator",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bruxelles_-_Basilique_Nationale_du_Sacr%C3%A9-C%C5%93ur_%C3%A0_Koekelberg_%285%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bruxelles_-_Basilique_Nationale_du_Sacr%C3%A9-C%C5%93ur_%C3%A0_Koekelberg_%285%29.jpg/500px-Bruxelles_-_Basilique_Nationale_du_Sacr%C3%A9-C%C5%93ur_%C3%A0_Koekelberg_%285%29.jpg",
+      "wikipedia_title": "Basilica of the Sacred Heart, Brussels",
+      "latitude": 50.8670778,
+      "longitude": 4.3169437
+    },
+    {
+      "name": "Belgian Beer World (Bourse)",
+      "type": "Beer Museum / Neoclassical Landmark",
+      "address": "Place de la Bourse, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "Opened in 2023, Belgian Beer World is an immersive experience celebrating Belgium's beer heritage, fittingly housed in the newly restored Brussels Stock Exchange building ('La Bourse'). Belgium's brewing tradition is UNESCO-listed.",
+      "historical_context": "The setting is spectacular: the 1873 Bourse building itself is a 19th-century marvel by architect Léon Suys, with grand columns and a lavish interior now repurposed for public use.",
+      "architectural_style": [
+        "Neoclassical"
+      ],
+      "visit_duration_minutes": 90,
+      "priority": "recommended",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": "End your visit with a tasting on the rooftop bar overlooking downtown Brussels (ticket includes a beer sample). Check if the underground archaeological site 'Brussels Underground' in the cellar is accessible.",
+      "nearby_food": [
+        "Delirium Café nearby"
+      ],
+      "sources": [
+        "chatgpt.md (recommended)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Front_of_Brussels_Stock_Exchange_2023_cropped.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Front_of_Brussels_Stock_Exchange_2023_cropped.jpg/500px-Front_of_Brussels_Stock_Exchange_2023_cropped.jpg",
+      "wikipedia_title": "Bourse Palace",
+      "latitude": 50.8483105,
+      "longitude": 4.3495925
+    },
+    {
+      "nearby_food": [
+        "Brasserie Horta inside the museum"
+      ],
+      "architectural_style": [
+        "Art Nouveau"
+      ],
+      "neighborhood": "City Center",
+      "sources": [
+        "chatgpt.md (recommended)",
+        "claude.md (must-see)",
+        "gemini3.md"
+      ],
+      "tips": "The surrounding streets feature large comic murals on building walls (part of the Comic Book Route). It's fun to turn a corner and spot Tintin or Lucky Luke painted on a facade. | Don't miss the life-size Tintin statues. The gift shop is excellent for comic book souvenirs. After visiting, explore the Comic Strip Trail murals around the city.",
+      "why_visit": "Belgium is the land of Tintin and the Smurfs, and this museum celebrates the comic-strip art form. It's set in a 1906 Art Nouveau warehouse designed by Victor Horta, with a gorgeous glass-and-steel atrium. | Double delight: a museum celebrating Belgium's comic strip heritage (Tintin, Smurfs, Lucky Luke) housed in a stunning Horta-designed Art Nouveau building originally built as a textile warehouse. | It kills two birds with one stone: it celebrates Belgium's most famous export (Tintin, Smurfs) inside a Victor Horta Art Nouveau department store (formerly Waucquez Warehouse).",
+      "type": "Comics Museum / Art Nouveau",
+      "historical_context": "The building, with its skylit iron staircase and floral details, is an attraction for architecture fans. Saved from demolition in 1975, museum opened 1989. | Building designed by Horta in 1906 as Magasins Waucquez department store. Saved from demolition in 1975. Museum opened 1989 with support from Hergé. Contains 6,000+ original comic strips. | Housed in former Waucquez Warehouse designed by Victor Horta",
+      "address": "Rue des Sables 20, 1000 Brussels",
+      "priority": "recommended",
+      "visit_duration_minutes": 90,
+      "booking_required": false,
+      "name": "Belgian Comic Strip Center (BD Museum)",
+      "price": "€14 adults; €11 ages 12-25; €6 ages 6-11",
+      "opening_hours": null,
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.8510096,
+      "longitude": 4.3600362
+    },
+    {
+      "name": "Botanique",
+      "type": "Cultural Center / Gardens",
+      "address": "Rue Royale 236, 1210 Brussels",
+      "neighborhood": "Saint-Josse",
+      "why_visit": "Formerly the Royal Botanical Gardens. The complex of glass-and-iron orangeries is stunning. It is now a cultural center for concerts.",
+      "historical_context": "Former Royal Botanical Gardens",
+      "architectural_style": [
+        "Iron and Glass"
+      ],
+      "visit_duration_minutes": 45,
+      "priority": "recommended",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini3.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Le_Botanique.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Le_Botanique.jpg/500px-Le_Botanique.jpg",
+      "wikipedia_title": "Le Botanique",
+      "latitude": 50.8545859,
+      "longitude": 4.3662855
+    },
+    {
+      "name": "Cinquantenaire & Autoworld",
+      "type": "Park / Museum",
+      "address": "Parc du Cinquantenaire, 1000 Brussels",
+      "neighborhood": "Cinquantenaire",
+      "why_visit": "The triumphal arch is massive (broader than the Brandenburg Gate). Autoworld is housed in the southern hall and contains a vast collection of vintage cars under a stunning 19th-century steel roof.",
+      "historical_context": null,
+      "architectural_style": null,
+      "visit_duration_minutes": 120,
+      "priority": "recommended",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": "Especially good if you like cars or steel engineering",
+      "nearby_food": null,
+      "sources": [
+        "gemini.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Arco_del_Cincuentenario%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_115-135_HDR_PAN.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Arco_del_Cincuentenario%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_115-135_HDR_PAN.jpg/500px-Arco_del_Cincuentenario%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_115-135_HDR_PAN.jpg",
+      "wikipedia_title": "Cinquantenaire",
+      "latitude": 50.8402489,
+      "longitude": 4.3939746
+    },
+    {
+      "nearby_food": [
+        "Place Royale cafés",
+        "Mont des Arts nearby"
+      ],
+      "architectural_style": null,
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)",
+        "gemini3.md"
+      ],
+      "tips": "Download the app for an immersive audio tour with 3D reconstructions. Combined tickets with BELvue Museum available. Access through the BELvue Museum.",
+      "neighborhood": "Royal Quarter",
+      "why_visit": "Walk through the buried remains of a medieval palace that once rivaled Versailles. An entire street, Rue Isabelle, now exists underground, preserved exactly as it was before being buried in the 18th century. | Go underground to walk the streets and cellars of the former imperial palace that burned down in 1731. It lies directly beneath the modern street level.",
+      "type": "Archaeological Site / Museum",
+      "historical_context": "The Coudenberg Palace was the seat of power for the Dukes of Brabant and later Charles V, making it one of Europe's most important palaces between the 12th and 18th centuries. A fire in 1731 destroyed it, and rather than rebuild, they simply covered the ruins with the new Place Royale. Rediscovered by archaeologists in the 1980s. | Former imperial palace that burned in 1731, now underground archaeological site",
+      "address": "Place des Palais 7, 1000 Brussels",
+      "priority": "recommended",
+      "visit_duration_minutes": 75,
+      "booking_required": false,
+      "name": "Coudenberg Palace (Archeological Site)",
+      "price": "€10 adults; €8 seniors; €5 students",
+      "opening_hours": null,
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.8426646,
+      "longitude": 4.3607679
+    },
+    {
+      "unesco": true,
+      "nearby_food": [
+        "Avenue Louise upscale restaurants and cafés"
+      ],
+      "architectural_style": [
+        "Art Nouveau"
+      ],
+      "booking_notes": "Required (limited tours Thu/Sat) | Now open for individual visits (audio guide included). Booking is mandatory and sells out fast.",
+      "sources": [
+        "claude.md (recommended)",
+        "gemini2.md"
+      ],
+      "tips": "Tours book up quickly. This is the most opulent Art Nouveau interior you can visit in Brussels.",
+      "neighborhood": "Louise",
+      "why_visit": "Victor Horta's most lavish creation, built with unlimited budget. Considered his masterpiece, every element from doorknobs to chandeliers was custom designed. UNESCO World Heritage. | Until recently, this was almost impossible to visit. It is Horta's most luxurious commission, with an unlimited budget. The interior materials (rare woods, marble, gold) are perfectly preserved.",
+      "type": "Historic House",
+      "historical_context": "Built 1894-1898 for chemistry magnate Armand Solvay. Horta was given complete creative freedom and unlimited funds. Remained in Solvay family until 1957. Opened for limited tours in recent years.",
+      "address": "Avenue Louise 224, 1000 Brussels",
+      "priority": "recommended",
+      "visit_duration_minutes": 60,
+      "booking_required": true,
+      "name": "Hôtel Solvay",
+      "price": "€18 standard; €13 concession",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/BE_Bruxelles_Horta_Solvay.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BE_Bruxelles_Horta_Solvay.JPG/500px-BE_Bruxelles_Horta_Solvay.JPG",
+      "wikipedia_title": "Hôtel Solvay",
+      "latitude": 50.8263571,
+      "longitude": 4.3654143
+    },
+    {
+      "name": "Logis-Floréal Garden Cities",
+      "type": "Urban Development / Garden City",
+      "address": "Watermael-Boitsfort",
+      "neighborhood": "Watermael-Boitsfort",
+      "why_visit": "A different take on the Garden City—these look like English cottages mixed with subtle Art Deco details. The cherry blossoms here in spring are famous.",
+      "historical_context": null,
+      "architectural_style": [
+        "Modernist",
+        "Art Deco"
+      ],
+      "visit_duration_minutes": 60,
+      "priority": "recommended",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": "Best in spring for cherry blossoms",
+      "nearby_food": null,
+      "sources": [
+        "gemini3.md"
+      ],
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.7981063,
+      "longitude": 4.4176441
+    },
+    {
+      "name": "Maison Autrique",
+      "type": "House Museum",
+      "address": "Chaussée de Haecht 266, 1030 Schaerbeek",
+      "neighborhood": "Schaerbeek",
+      "why_visit": "Horta's very first Art Nouveau town house. It is less 'explosive' than the Horta Museum but offers a beautiful, intimate look at the domestic life of the 19th century. The 'scenography' is designed to feel like the family just stepped out.",
+      "historical_context": "Horta's first Art Nouveau commission",
+      "architectural_style": [
+        "Art Nouveau"
+      ],
+      "visit_duration_minutes": 60,
+      "priority": "recommended",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini2.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Autrique_House_%281%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Autrique_House_%281%29.jpg/500px-Autrique_House_%281%29.jpg",
+      "wikipedia_title": "Autrique House",
+      "latitude": 50.8632479,
+      "longitude": 4.3731589
+    },
+    {
+      "name": "Maison du Roi (Brussels City Museum)",
+      "type": "Museum",
+      "address": "Grand Place, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "The Neo-Gothic building directly opposite the Town Hall. It houses the original statues from the facade and the wardrobe of Manneken Pis (hundreds of tiny costumes).",
+      "historical_context": null,
+      "architectural_style": [
+        "Neo-Gothic"
+      ],
+      "visit_duration_minutes": 60,
+      "priority": "recommended",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini3.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Maison_du_Roi%2C_Brussels_%28DSCF1978%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Maison_du_Roi%2C_Brussels_%28DSCF1978%29.jpg/500px-Maison_du_Roi%2C_Brussels_%28DSCF1978%29.jpg",
+      "wikipedia_title": "Brussels City Museum",
+      "latitude": 50.8467139,
+      "longitude": 4.3525151
+    },
+    {
+      "name": "Museum of Natural Sciences",
+      "type": "Science Museum",
+      "address": "Rue Vautier 29, 1000 Brussels",
+      "neighborhood": "Leopold Park",
+      "why_visit": "It houses the Bernissart Iguanodons, 30 complete dinosaur skeletons found in a coal mine. It is the largest dinosaur gallery in Europe. The building itself has a beautiful Art Nouveau wing. | Europe's largest dinosaur gallery, featuring the famous Iguanodon herd discovered in Belgium. Excellent for families with interactive exhibits on evolution and biodiversity.",
+      "historical_context": "Founded 1846. The star attraction: 30 Iguanodon skeletons discovered in 1878 in Bernissart coal mine, one of the most significant paleontological finds ever.",
+      "architectural_style": [
+        "Art Nouveau"
+      ],
+      "visit_duration_minutes": 150,
+      "priority": "recommended",
+      "booking_required": true,
+      "price": "€13 adults; €10 seniors/students; €5 ages 6-17",
+      "opening_hours": null,
+      "tips": "The dinosaur gallery alone is worth the visit. The Living Planet exhibit is excellent for understanding Belgian biodiversity.",
+      "nearby_food": [
+        "Museum café",
+        "Leopold Park nearby with picnic spots"
+      ],
+      "sources": [
+        "gemini3.md",
+        "claude.md (recommended)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Mus%C3%A9um_des_Sciences_naturelles_de_Belgique_%28entr%C3%A9e%29.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mus%C3%A9um_des_Sciences_naturelles_de_Belgique_%28entr%C3%A9e%29.JPG/500px-Mus%C3%A9um_des_Sciences_naturelles_de_Belgique_%28entr%C3%A9e%29.JPG",
+      "wikipedia_title": "Museum of Natural Sciences",
+      "booking_notes": "Recommended for weekends",
+      "unesco": false,
+      "latitude": 50.8360118,
+      "longitude": 4.3760101
+    },
+    {
+      "name": "Palais Stoclet",
+      "type": "Architectural Landmark",
+      "address": "Avenue de Tervueren 411, 1150 Brussels",
+      "neighborhood": "Woluwe-Saint-Pierre",
+      "why_visit": "The 'Holy Grail' of the Vienna Secession style. Designed by Josef Hoffmann, it is radically geometric, contrasting with the organic curves of Brussels Art Nouveau.",
+      "historical_context": null,
+      "architectural_style": [
+        "Art Nouveau"
+      ],
+      "visit_duration_minutes": 15,
+      "priority": "recommended",
+      "booking_required": false,
+      "booking_notes": "Exterior only - the interior is strictly closed to the public (still private property).",
+      "price": null,
+      "opening_hours": null,
+      "tips": "Seeing the exterior is a pilgrimage for architecture students.",
+      "nearby_food": null,
+      "unesco": true,
+      "sources": [
+        "gemini2.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/20120923_Brussels_PalaisStoclet_Hoffmann_DSC06725_PtrQs.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/20120923_Brussels_PalaisStoclet_Hoffmann_DSC06725_PtrQs.jpg/500px-20120923_Brussels_PalaisStoclet_Hoffmann_DSC06725_PtrQs.jpg",
+      "wikipedia_title": "Stoclet Palace",
+      "latitude": 50.8199658,
+      "longitude": 4.4642855
+    },
+    {
+      "name": "Parlamentarium & EU Quarter",
+      "type": "Modern Politics / History Museum",
+      "address": "European Quarter, Brussels",
+      "neighborhood": "EU Quarter",
+      "why_visit": "Brussels is the de facto 'capital of Europe,' and the EU institutions area offers a change of pace from historic Brussels. The Parlamentarium is a free interactive museum about the European Parliament and EU, surprisingly engaging even for non-politicos.",
+      "historical_context": "The House of European History (also free) is set in a lovely Art Deco former dental clinic and presents a thoughtful journey through Europe's 20th-century turmoil and integration.",
+      "architectural_style": [
+        "Modern",
+        "Art Deco (House of European History)"
+      ],
+      "visit_duration_minutes": 60,
+      "priority": "recommended",
+      "booking_required": false,
+      "price": "Free",
+      "opening_hours": "Closed Mondays (House of European History)",
+      "tips": "Place Luxembourg is ringed with pubs and eateries. For a Belgian touch, grab fries at the famous Maison Antoine stand on Place Jourdan.",
+      "nearby_food": [
+        "Maison Antoine fries on Place Jourdan",
+        "Pubs around Place Luxembourg"
+      ],
+      "sources": [
+        "chatgpt.md (recommended)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Parlamentarium_-_Parlement_europ%C3%A9en_-_Je_suis_Nice.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Parlamentarium_-_Parlement_europ%C3%A9en_-_Je_suis_Nice.jpg/500px-Parlamentarium_-_Parlement_europ%C3%A9en_-_Je_suis_Nice.jpg",
+      "wikipedia_title": "Parlamentarium",
+      "latitude": 50.8423504,
+      "longitude": 4.3839451
+    },
+    {
+      "nearby_food": [
+        "Restaurant in the building",
+        "Schuman area"
+      ],
+      "architectural_style": [
+        "Art Deco"
+      ],
+      "sources": [
+        "claude.md (recommended)",
+        "gemini3.md"
+      ],
+      "tips": "Visit the International Press Centre restaurant during weekdays to see the marble staircase and original details.",
+      "neighborhood": "EU Quarter",
+      "why_visit": "Michel Polak's first Art Deco masterpiece, originally Europe's largest luxury apartment complex. Now partially houses the European Council. Stunning staircase and restored interiors. | Built in the 1920s as luxury apartments, it is now part of the EU complex. The lobby, swimming pool (now closed), and theatre are pure Art Deco luxury. The 'Press Club' brasserie inside is often open to the public.",
+      "type": "Historic Building / EU Building",
+      "historical_context": "Built 1922-1927 with apartments, swimming pool, theater, and shops. After WWII became government offices. The International Press Centre now occupies restored ground floor spaces. | Built 1920s as luxury apartments",
+      "address": "Rue de la Loi 155, 1000 Brussels",
+      "priority": "recommended",
+      "visit_duration_minutes": 40,
+      "booking_required": false,
+      "name": "Residence Palace",
+      "price": "Free (public areas)",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Royal_Palace_Laeken_from_the_Air.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Royal_Palace_Laeken_from_the_Air.jpg/500px-Royal_Palace_Laeken_from_the_Air.jpg",
+      "wikipedia_title": "Palace of Laeken",
+      "latitude": 50.842837,
+      "longitude": 4.3801629
+    },
+    {
+      "name": "Sablon District (Église Notre-Dame du Sablon & Antique Shops)",
+      "type": "Gothic Church / Historic District",
+      "address": "Place du Grand Sablon, 1000 Brussels",
+      "neighborhood": "Sablon",
+      "why_visit": "The Sablon area is an upscale historic quarter known for its beautiful Notre-Dame du Sablon church – a 15th-century Flamboyant Gothic church famed for its lofty nave and gorgeous stained-glass windows – and the adjacent Place du Grand Sablon, lined with antique dealers, galleries, and chocolatiers.",
+      "historical_context": "The church interior is simply stunning, often called one of Belgium's most beautiful, with sunlight filtering through vividly colored glass. The Petit Sablon Garden across the street has manicured hedges and whimsical statues of medieval guild members.",
+      "architectural_style": [
+        "Gothic"
+      ],
+      "visit_duration_minutes": 60,
+      "priority": "recommended",
+      "booking_required": false,
+      "price": "Free",
+      "opening_hours": null,
+      "tips": "Try Pierre Marcolini or Wittamer (est. 1910) for pralines and pastries, or grab a coffee at an elegant sidewalk café on Place du Sablon. Antiques market on weekends.",
+      "nearby_food": [
+        "Pierre Marcolini",
+        "Wittamer",
+        "Sidewalk cafés on Place du Sablon"
+      ],
+      "sources": [
+        "chatgpt.md (recommended)"
+      ],
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.8411833,
+      "longitude": 4.3548653
+    },
+    {
+      "nearby_food": [
+        "Galeries Royales Saint-Hubert nearby with cafés"
+      ],
+      "architectural_style": [
+        "Gothic"
+      ],
+      "neighborhood": "City Center",
+      "sources": [
+        "chatgpt.md (recommended)",
+        "claude.md (recommended)",
+        "gemini3.md"
+      ],
+      "tips": "Don't miss the beautiful rose window and the treasury displays. Check if an organ concert or the special nighttime Luminiscence light show is scheduled. | Best visited during morning when sunlight illuminates the stained glass. Underground Romanesque crypt is worth seeing.",
+      "why_visit": "Brussels' main cathedral, a majestic twin-towered church begun in the 13th century and completed in the 15th, exemplifying Brabantine Gothic architecture. The interior is soaring yet serene – lofty vaulted ceilings, medieval stained-glass windows, and a Baroque pulpit carved from wood. | Brussels' primary church with stunning 13th-century Gothic architecture, magnificent stained glass windows, and a peaceful atmosphere. Free entry makes it accessible to all. | The national church of Belgium. It took 300 years to build and is a perfect example of Brabantine Gothic. The stained glass windows are massive and vibrant.",
+      "type": "Medieval Gothic Cathedral",
+      "historical_context": "Royal weddings and state ceremonies take place here. In the crypt, you can see remnants of a 11th-century Romanesque chapel. | Construction began 1226, completed 1519. Built on the site of a Romanesque church. Named for the city's two patron saints. Scene of royal weddings and state funerals. | Took 300 years to build",
+      "address": "Parvis Sainte-Gudule, 1000 Brussels",
+      "priority": "recommended",
+      "visit_duration_minutes": 40,
+      "booking_required": false,
+      "name": "St. Michael and St. Gudula Cathedral",
+      "price": "Free; €3 for crypt and treasury",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Saints-Michel-et-Gudule_Luc_Viatour.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Saints-Michel-et-Gudule_Luc_Viatour.jpg/500px-Saints-Michel-et-Gudule_Luc_Viatour.jpg",
+      "wikipedia_title": "Cathedral of St. Michael and St. Gudula",
+      "latitude": 50.8477468,
+      "longitude": 4.3580759
+    },
+    {
+      "nearby_food": [
+        "Uccle local bistros",
+        "Place Brugmann nearby"
+      ],
+      "architectural_style": [
+        "Art Deco",
+        "Expressionist"
+      ],
+      "booking_notes": "Recommended",
+      "neighborhood": "Uccle",
+      "sources": [
+        "chatgpt.md (hidden-gems)",
+        "claude.md (recommended)",
+        "gemini.md"
+      ],
+      "tips": "Check their schedule for art exhibitions or piano concerts sometimes held in the salon. About 30 minutes from city center by tram or bus. | Visit in spring when the garden is in bloom. The house gives an intimate look at 1920s wealthy Brussels life.",
+      "why_visit": "A 1928 private villa is a total Art Deco gem, preserved as if the owners just stepped out. The interior is frozen in time – from exotic wood paneling and stained-glass windows to an eclectic art collection. The expansive gardens feature a whimsical labyrinth. | A perfectly preserved 1920s Art Deco home with original furniture, stained glass, and works by Van Gogh, Bruegel, and Ensor. The labyrinth garden inspired by 'The Song of Songs' is magical. | A total work of art. The interior is exactly as it was in the 1930s, filled with rare furniture and paintings (including a Bruegel). The gardens are a hidden geometric wonder.",
+      "type": "Art Deco Home / Secret Garden",
+      "historical_context": "Recognized by the European Route of Historic Gardens. The Van Buuren family amassed works from 15th-century Flemish to 20th-century modern. Far off the typical tourist path. | Built 1924-1928 for banker David Van Buuren and his wife Alice. Architects Léon Govaerts and Alexis Van Vaerenbergh. The couple collected art throughout their lives. Became museum foundation in 1975.",
+      "address": "Avenue Léo Errera 41, 1180 Uccle",
+      "priority": "recommended",
+      "visit_duration_minutes": 90,
+      "booking_required": true,
+      "name": "Van Buuren Museum and Gardens",
+      "price": "€13 with garden; €8 garden only",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Museum_van_Buuren_Brussels_Belgium.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museum_van_Buuren_Brussels_Belgium.jpg/500px-Museum_van_Buuren_Brussels_Belgium.jpg",
+      "wikipedia_title": "Van Buuren Museum & Gardens",
+      "latitude": 50.8095346,
+      "longitude": 4.353281
+    },
+    {
+      "name": "Abbaye de la Cambre (La Cambre Abbey)",
+      "type": "Tranquil Oasis / Historic Abbey",
+      "address": "Ixelles, near Avenue Louise",
+      "neighborhood": "Ixelles",
+      "why_visit": "A 13th-century Cistercian abbey complex nestled in the upscale Ixelles neighborhood. The abbey's formal French gardens are impeccably manicured and surprisingly serene – an ideal spot to read a book or picnic away from city noise.",
+      "historical_context": "The historic abbey church and cloister (free entry) exude a quiet spirituality and often host art exhibits from the adjoining La Cambre art college.",
+      "architectural_style": [
+        "Medieval"
+      ],
+      "visit_duration_minutes": 30,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Free",
+      "opening_hours": null,
+      "tips": "From the abbey, you can stroll into the Bois de la Cambre (a big park at the end of Avenue Louise). Combine it with a visit to Villa Empain nearby.",
+      "nearby_food": null,
+      "sources": [
+        "chatgpt.md (hidden-gems)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Abb.de_la_Cambre%2C_palais_abbatial.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Abb.de_la_Cambre%2C_palais_abbatial.JPG/500px-Abb.de_la_Cambre%2C_palais_abbatial.JPG",
+      "wikipedia_title": "La Cambre Abbey",
+      "latitude": 50.8198,
+      "longitude": 4.379
+    },
+    {
+      "name": "Art & History Museum",
+      "type": "Museum",
+      "address": "Parc du Cinquantenaire 10, 1000 Brussels",
+      "neighborhood": "Cinquantenaire",
+      "why_visit": "Often overlooked for Autoworld, this massive museum holds Belgian Art Nouveau furniture, tapestries, and arguably the best collection of Pre-Columbian art in Europe.",
+      "historical_context": null,
+      "architectural_style": null,
+      "visit_duration_minutes": 120,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": "Low crowds despite excellent collection",
+      "nearby_food": null,
+      "sources": [
+        "gemini3.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Park_of_the_Cinquantenaire_-_Royal_Museums_of_Art_and_History%2C_Brussels%2C_2010_%28HDR_2%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Park_of_the_Cinquantenaire_-_Royal_Museums_of_Art_and_History%2C_Brussels%2C_2010_%28HDR_2%29.jpg/500px-Park_of_the_Cinquantenaire_-_Royal_Museums_of_Art_and_History%2C_Brussels%2C_2010_%28HDR_2%29.jpg",
+      "wikipedia_title": "Art & History Museum",
+      "latitude": 50.8402489,
+      "longitude": 4.3939746
+    },
+    {
+      "name": "Audrey Hepburn's Birthplace",
+      "type": "Historic Site",
+      "address": "Rue Keyenveld 48, 1050 Ixelles",
+      "neighborhood": "Ixelles",
+      "why_visit": "The modest house where Audrey Hepburn was born in 1929. A pilgrimage site for film fans, marked only by a small plaque in a quiet residential street.",
+      "historical_context": "Audrey Hepburn (born Audrey Kathleen Ruston) spent her early years in Brussels before moving to England, then the Netherlands during WWII.",
+      "architectural_style": null,
+      "visit_duration_minutes": 5,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Free (exterior only)",
+      "opening_hours": null,
+      "tips": "Just a house facade with commemorative plaque. Combine with exploring the Ixelles neighborhood.",
+      "nearby_food": [
+        "Numerous options in the Ixelles area"
+      ],
+      "sources": [
+        "claude.md (hidden-gems)"
+      ],
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.8348158,
+      "longitude": 4.3615048
+    },
+    {
+      "name": "Black Tower",
+      "type": "Historic Monument",
+      "address": "Behind Hotel Novotel, Place Sainte-Catherine, 1000 Brussels",
+      "neighborhood": "Sainte-Catherine",
+      "why_visit": "One of the last surviving sections of Brussels' 13th-century city wall. Hidden in plain sight behind a hotel, it's a surprising glimpse of medieval Brussels.",
+      "historical_context": "Part of the first city wall built in the 13th century. Originally one of several defensive towers. Survived centuries of urban development almost by accident.",
+      "architectural_style": [
+        "Medieval"
+      ],
+      "visit_duration_minutes": 10,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Free",
+      "opening_hours": null,
+      "tips": "Easy to miss. Walk behind the Novotel near Place Sainte-Catherine. Combine with exploring the former fish market area.",
+      "nearby_food": [
+        "Place Sainte-Catherine is Brussels' seafood restaurant hub"
+      ],
+      "sources": [
+        "claude.md (hidden-gems)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Tour_Noir.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tour_Noir.JPG/500px-Tour_Noir.JPG",
+      "wikipedia_title": "Black Tower (Brussels)",
+      "latitude": 50.8507,
+      "longitude": 4.3472
+    },
+    {
+      "name": "Brussels Sewer Museum",
+      "type": "Museum / Underground Tour",
+      "address": "Porte d'Anderlecht, 1000 Brussels",
+      "neighborhood": "Anderlecht",
+      "why_visit": "Descend into Brussels' working sewer system and walk along the buried River Senne. An unexpectedly fascinating journey through the city's hidden infrastructure with excellent audio guides and interactive exhibits.",
+      "historical_context": "The River Senne shaped Brussels for centuries before being covered in the 19th century due to cholera outbreaks. The 1900km sewer network is a masterpiece of engineering. The museum tells the story of urban development, public health, and the workers who maintain this hidden world.",
+      "architectural_style": null,
+      "visit_duration_minutes": 90,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "€10 adults; €8 students",
+      "opening_hours": "Closed Mondays",
+      "tips": "Bring your own nose clip (they warn you!). The audio guide is excellent and essential. Entry through the historic toll houses at Porte d'Anderlecht.",
+      "nearby_food": [
+        "Marolles neighborhood estaminets",
+        "Traditional Brussels cuisine"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.8448878,
+      "longitude": 4.3388163
+    },
+    {
+      "name": "CBR Building",
+      "type": "Office Building",
+      "address": "Chaussée de la Hulpe 185, Brussels",
+      "neighborhood": "Watermael-Boitsfort",
+      "why_visit": "For the hardcore architecture fan. It is a functionalist/brutalist icon with distinctive amber curved windows.",
+      "historical_context": null,
+      "architectural_style": [
+        "Modernist",
+        "Brutalist"
+      ],
+      "visit_duration_minutes": 15,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "booking_notes": "Exterior only/Coworking lobby",
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Belgique_-_Bruxelles_-_Immeuble_CBR_-_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Belgique_-_Bruxelles_-_Immeuble_CBR_-_01.jpg/500px-Belgique_-_Bruxelles_-_Immeuble_CBR_-_01.jpg",
+      "wikipedia_title": "CBR Building",
+      "latitude": 50.7952467,
+      "longitude": 4.405303
+    },
+    {
+      "name": "Cantillon Brewery & Brussels Gueuze Museum",
+      "type": "Working Brewery / Museum",
+      "address": "Rue Gheude 56, 1070 Anderlecht",
+      "neighborhood": "Anderlecht",
+      "why_visit": "The last traditional lambic brewery in Brussels, unchanged since 1900. See century-old copper kettles, oak barrels over 100 years old, and witness spontaneous fermentation—a brewing method unique to the Brussels region.",
+      "historical_context": "Founded in 1900 by the Van Roy-Cantillon family. Nearly went bankrupt in the 1970s when lambic beer was considered old-fashioned. Saved by establishing the museum, it's now internationally renowned. Uses wild yeast from the Brussels air and coolships exposed to the elements.",
+      "architectural_style": null,
+      "visit_duration_minutes": 60,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "booking_notes": "No (except groups)",
+      "price": "€9 (includes tasting); free under 14",
+      "opening_hours": null,
+      "tips": "Visit on a Saturday morning during brewing season (October-April) to see active brewing. The shop sells beers unavailable elsewhere at brewery prices.",
+      "nearby_food": [
+        "Traditional cafés in the Anderlecht area"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.8415748,
+      "longitude": 4.3356154
+    },
+    {
+      "nearby_food": [
+        "Local bistros in Uccle center",
+        "Place Brugmann cafés"
+      ],
+      "architectural_style": [
+        "Gothic"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)",
+        "gemini3.md"
+      ],
+      "tips": "Bring a flashlight to peek inside open tombs. Best visited in autumn when leaves add to the atmosphere. The Jewish section at the rear contains impressive banking dynasty tombs.",
+      "neighborhood": "Uccle",
+      "why_visit": "A hauntingly beautiful overgrown cemetery where nature has reclaimed ornate 19th-century tombs. Art Nouveau graves, crumbling mausoleums, and over 200 plant species create an atmosphere between gothic romance and ecological sanctuary. | Closed to new burials since 1958, nature has taken over. It is a romantic, overgrown forest filled with crumbling 19th-century Gothic mausoleums. Very atmospheric.",
+      "type": "Abandoned Cemetery / Nature Reserve",
+      "historical_context": "Opened in 1866 during a cholera epidemic, closed in 1958. Now a protected monument and green area of high biological value. Notable graves include Hergé (creator of Tintin), Art Nouveau architect Paul Hankar, and feminist pioneer Isabelle Gatti de Gamond. Legend says Tintin appears on All Saints' Day to visit his creator. | Closed to burials since 1958",
+      "address": "Dieweg 95, 1180 Uccle",
+      "priority": "hidden-gem",
+      "visit_duration_minutes": 90,
+      "booking_required": false,
+      "name": "Cemetery Dieweg",
+      "price": "Free",
+      "opening_hours": null,
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.7956555,
+      "longitude": 4.3468221
+    },
+    {
+      "name": "Charlier Museum",
+      "type": "House Museum",
+      "address": "Avenue des Arts 16, 1210 Saint-Josse-ten-Noode",
+      "neighborhood": "Saint-Josse",
+      "why_visit": "An intimate museum in a 19th-century mansion remodeled by Victor Horta, housing art collector Henri Van Cutsem's collection. Far less crowded than major museums.",
+      "historical_context": "The mansion belonged to wealthy collector Henri Van Cutsem, who hired Victor Horta to redesign interiors. Became museum in 1928. Contains works by Ensor, Meunier, and more.",
+      "architectural_style": [
+        "Art Nouveau interior"
+      ],
+      "visit_duration_minutes": 60,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "€8",
+      "opening_hours": null,
+      "tips": "Often hosts intimate classical concerts in beautiful surroundings. Check their schedule.",
+      "nearby_food": [
+        "Options along Avenue des Arts"
+      ],
+      "sources": [
+        "claude.md (hidden-gems)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charlier_Museum%2C_entrance.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charlier_Museum%2C_entrance.jpg/500px-Charlier_Museum%2C_entrance.jpg",
+      "wikipedia_title": "Charlier Museum",
+      "latitude": 50.8475577,
+      "longitude": 4.3699777
+    },
+    {
+      "name": "Church of St. Augustine",
+      "type": "Church",
+      "address": "Place de l'Altitude Cent, 1190 Forest",
+      "neighborhood": "Forest",
+      "why_visit": "One of the only Art Deco churches in Brussels. It sits in the center of a star-shaped intersection. The interior uses reinforced concrete to create open, airy arches without columns.",
+      "historical_context": null,
+      "architectural_style": [
+        "Art Deco"
+      ],
+      "visit_duration_minutes": 30,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini3.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Saintt_Augustine%27s_Church.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Saintt_Augustine%27s_Church.jpg/500px-Saintt_Augustine%27s_Church.jpg",
+      "wikipedia_title": "Church of St. Augustine, Forest",
+      "latitude": 50.816633,
+      "longitude": 4.3362414
+    },
+    {
+      "name": "Cité Moderne",
+      "type": "Urban Development / Garden City",
+      "address": "Rue de la Cité Moderne, 1082 Berchem-Sainte-Agathe",
+      "neighborhood": "Berchem-Sainte-Agathe",
+      "why_visit": "A 'Garden City' designed in the 1920s by Victor Bourgeois. It is a stark contrast to Art Nouveau—white, cubist, geometric, and very 'Bauhaus.'",
+      "historical_context": "Designed 1920s by Victor Bourgeois",
+      "architectural_style": [
+        "Bauhaus",
+        "Modernist"
+      ],
+      "visit_duration_minutes": 45,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "booking_notes": "Architecture pilgrimage",
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini3.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Grand_Place_Bruselas_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Grand_Place_Bruselas_2.jpg/500px-Grand_Place_Bruselas_2.jpg",
+      "wikipedia_title": "Brussels",
+      "latitude": 50.8674613,
+      "longitude": 4.3056361
+    },
+    {
+      "name": "Clockarium Museum",
+      "type": "Quirky Art Deco Clock Museum",
+      "address": "Avenue Louis Bertrand, 1030 Schaerbeek",
+      "neighborhood": "Schaerbeek",
+      "why_visit": "A small museum dedicated entirely to Art Deco mantel clocks. Housed in a 1930s Art Deco private home in Schaerbeek, it displays over 1,000 ceramic clocks from the 1920s–30s.",
+      "historical_context": "A charming look at middle-class life between the World Wars through the lens of decorative arts. Recurring Deco motifs – zigzags, sunbursts, stylized animals – each clock with its own personality.",
+      "architectural_style": [
+        "Art Deco"
+      ],
+      "visit_duration_minutes": 60,
+      "priority": "hidden-gem",
+      "booking_required": true,
+      "booking_notes": "Open only a few afternoons per week (typically weekends) by guided tour – check ahead.",
+      "price": null,
+      "opening_hours": "Weekends only, by guided tour",
+      "tips": "Tour lasts ~1 hour. Combine it with a stroll around Schaerbeek to spot Art Nouveau houses and the nearby Josaphat Park.",
+      "nearby_food": null,
+      "sources": [
+        "chatgpt.md (hidden-gems)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Maison_du_Roi%2C_Brussels_%28DSCF1978%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Maison_du_Roi%2C_Brussels_%28DSCF1978%29.jpg/500px-Maison_du_Roi%2C_Brussels_%28DSCF1978%29.jpg",
+      "wikipedia_title": "Brussels City Museum",
+      "latitude": 50.8640803,
+      "longitude": 4.3743263
+    },
+    {
+      "name": "Crosly Bowling Alley",
+      "type": "Entertainment",
+      "address": "Rue de Rollebeek 18, 1000 Brussels",
+      "neighborhood": "Sablon",
+      "why_visit": "An authentic 1950s bowling alley and arcade that time forgot. Kitsch decor, vintage pinball machines, and old-school fun steps from the elegant Sablon.",
+      "historical_context": "One of Brussels' original bowling alleys from the postwar era. Has preserved its retro aesthetic and remains popular with locals.",
+      "architectural_style": [
+        "Mid-Century"
+      ],
+      "visit_duration_minutes": 90,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "€5-10 per game",
+      "opening_hours": null,
+      "tips": "Great for families or a quirky evening out. The contrast with the upscale Sablon neighborhood is part of the charm.",
+      "nearby_food": [
+        "Sablon has excellent patisseries and restaurants"
+      ],
+      "sources": [
+        "claude.md (hidden-gems)"
+      ],
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.8419042,
+      "longitude": 4.3531138
+    },
+    {
+      "name": "Delirium Village",
+      "type": "Beer Bar Complex",
+      "address": "Impasse de la Fidélité 4A, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "Guinness World Record holder for most beers available: 2,004+ varieties from over 60 countries. Multiple themed bars (beer, absinthe, tequila, Trappist) occupy an entire alley opposite the Jeanneke Pis statue.",
+      "historical_context": "Opened December 2003, achieved world record within a month. Named after Delirium Tremens beer (with its pink elephant logo) from Huyghe Brewery. The complex has expanded to include Taphouse (27 drafts), Hoppy Loft, Monasterium (abbey/Trappist beers), and Floris Bar (600+ absinthes).",
+      "architectural_style": null,
+      "visit_duration_minutes": 120,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Beers €4-12",
+      "opening_hours": null,
+      "tips": "Ask staff for recommendations—they have encyclopedic knowledge. The basement is atmospheric with live music Thursdays. Touristy but genuinely fun, and the beer selection is unmatched.",
+      "nearby_food": [
+        "Across from Jeanneke Pis",
+        "Near Grand-Place restaurants"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/CafeDeliriumEx.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CafeDeliriumEx.JPG/500px-CafeDeliriumEx.JPG",
+      "wikipedia_title": "Delirium Café",
+      "latitude": 50.8484944,
+      "longitude": 4.3538962
+    },
+    {
+      "name": "Erasmus House & Beguinage",
+      "type": "House Museum / Historic Site",
+      "address": "Rue de Chapitre 31, 1070 Anderlecht",
+      "neighborhood": "Anderlecht",
+      "why_visit": "The oldest municipal house in Belgium (1515), where the humanist Erasmus stayed. The adjacent Beguinage is a tiny, silent enclosed garden from the middle ages.",
+      "historical_context": "Oldest municipal house in Belgium (1515), where Erasmus stayed",
+      "architectural_style": [
+        "Medieval",
+        "Renaissance"
+      ],
+      "visit_duration_minutes": 60,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini3.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Maison_d%27%C3%89rasme.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Maison_d%27%C3%89rasme.jpg/500px-Maison_d%27%C3%89rasme.jpg",
+      "wikipedia_title": "Erasmus House",
+      "latitude": 50.8375,
+      "longitude": 4.309
+    },
+    {
+      "name": "Ferme Maximilien (Urban Farm)",
+      "type": "Urban Farm / Community Garden",
+      "address": "Quai du Batelage 2, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "An actual working farm with alpacas, donkeys, goats, and chickens—less than 1km from Gare du Nord. A surreal countryside escape in the heart of the city, beloved by locals but almost unknown to tourists.",
+      "historical_context": "Established in 1988 by a non-profit organization to educate urban residents about farming and ecology. The farm promotes biodiversity throughout Brussels, installing insect hotels and planting diverse trees. Also functions as a community garden where locals can grow vegetables and compost.",
+      "architectural_style": null,
+      "visit_duration_minutes": 60,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Free",
+      "opening_hours": null,
+      "tips": "Don't feed the animals; keep dogs leashed. Ask about worm composting—they'll give you worms for free! The 'Spiral of Time' area is designed for meditation. Near Yser Metro station.",
+      "nearby_food": [
+        "Canal-side cafés",
+        "Sainte-Catherine fish restaurants"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Leonardo_11%2C_Poitevin_stallion_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leonardo_11%2C_Poitevin_stallion_%28cropped%29.jpg/500px-Leonardo_11%2C_Poitevin_stallion_%28cropped%29.jpg",
+      "wikipedia_title": "Poitevin horse",
+      "latitude": 50.8587248,
+      "longitude": 4.3502051
+    },
+    {
+      "nearby_food": [
+        "Numerous cafés and restaurants within the galleries",
+        "Mokafé (waffles)",
+        "Fin de Siècle (dinner, Rue des Chartreux 9)"
+      ],
+      "architectural_style": [
+        "Neoclassical",
+        "Renaissance",
+        "Neo-Renaissance"
+      ],
+      "sources": [
+        "claude.md (hidden-gems)",
+        "gemini.md"
+      ],
+      "tips": "Visit Neuhaus chocolate shop (inventors of the praline) or Mary Chocolatier. The Théâtre Royal hosts excellent productions. | Look for Tropismes Libraires, a stunning bookstore inside the galleries often missed by tourists focused on chocolate.",
+      "neighborhood": "City Center",
+      "why_visit": "Europe's first covered shopping gallery (1847). Stunning glass-roofed arcade with luxury shops, chocolatiers, and historic cafés. Still functioning as a commercial and cultural space. | One of the oldest shopping arcades in Europe (older than the Galleria in Milan), dripping with Italianate Neo-Renaissance elegance.",
+      "type": "Shopping Arcade",
+      "historical_context": "Opened 1847, designed by Jean-Pierre Cluysenaar. At the time, the largest glass-roofed shopping arcade in Europe. Has housed the Taverne du Passage and Théâtre Royal des Galeries since opening.",
+      "address": "Galerie du Roi 5, 1000 Brussels",
+      "priority": "hidden-gem",
+      "visit_duration_minutes": 40,
+      "booking_required": false,
+      "name": "Galeries Royales Saint-Hubert",
+      "price": "Free",
+      "opening_hours": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Galeries_royales_Saint-Hubert_Bruxelles.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Galeries_royales_Saint-Hubert_Bruxelles.JPG/500px-Galeries_royales_Saint-Hubert_Bruxelles.JPG",
+      "wikipedia_title": "Royal Saint-Hubert Galleries",
+      "latitude": 50.8479692,
+      "longitude": 4.3551988
+    },
+    {
+      "name": "Goupil le Fol",
+      "type": "Dive Bar",
+      "address": "Rue de la Violette 22, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "A dimly-lit, ramshackle boudoir where time stopped decades ago. Ragged sofas, random paintings, portraits of royalty, and a jukebox playing Piaf and Brel. Once a brothel, now Brussels' most atmospheric drinking den.",
+      "historical_context": "The building's past as a brothel infuses the cramped, intimate rooms with a particular decadence. The maze of tiny spaces on two floors, walls stained from years of cigarette smoke (pre-ban), creates an atmosphere impossible to manufacture. Popular with artists, students, and those who appreciate authentic character.",
+      "architectural_style": null,
+      "visit_duration_minutes": 90,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Wine/beer €4-6",
+      "opening_hours": null,
+      "tips": "Come for fruity wine (a specialty) and French chansons. It can get crowded and smoky on weekends. Credit cards may not be accepted. Just off Grand-Place but feels a world away.",
+      "nearby_food": [
+        "Grand-Place area restaurants"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.8453938,
+      "longitude": 4.3524924
+    },
+    {
+      "name": "Halle Gate (Porte de Hal)",
+      "type": "Monument / Museum",
+      "address": "Boulevard du Midi 150, 1000 Brussels",
+      "neighborhood": "Saint-Gilles",
+      "why_visit": "The only remaining gate from the medieval city walls. It looks like a fairytale castle tower. Inside is a museum about the city's defense and a panoramic roof view.",
+      "historical_context": "Only remaining gate from medieval city walls",
+      "architectural_style": [
+        "Medieval"
+      ],
+      "visit_duration_minutes": 60,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini3.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bruxelles_Porte_de_Hal_5.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bruxelles_Porte_de_Hal_5.jpg/500px-Bruxelles_Porte_de_Hal_5.jpg",
+      "wikipedia_title": "Halle Gate",
+      "latitude": 50.8330975,
+      "longitude": 4.3449192
+    },
+    {
+      "name": "In 't Spinnekopke",
+      "type": "Restaurant / Historic Building",
+      "address": "Place du Jardin aux Fleurs 1, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "Brussels' oldest restaurant (founded 1762). A perfectly preserved estaminet with tiled floors, wood paneling, and classic Belgian cuisine cooked with beer.",
+      "historical_context": "Operating since 1762, this traditional estaminet survived modernization of Brussels. The name means 'The Little Spider' and refers to the narrow street pattern.",
+      "architectural_style": null,
+      "visit_duration_minutes": 90,
+      "priority": "hidden-gem",
+      "booking_required": true,
+      "booking_notes": "Recommended",
+      "price": "€25-40 per person",
+      "opening_hours": null,
+      "tips": "Try their carbonnade flamande (beef stew with beer) and bloedworst (blood sausage).",
+      "nearby_food": null,
+      "sources": [
+        "claude.md (hidden-gems)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Belgium-6584_-_Poster_%2813935098629%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Belgium-6584_-_Poster_%2813935098629%29.jpg/500px-Belgium-6584_-_Poster_%2813935098629%29.jpg",
+      "wikipedia_title": "Royal Theatre Toone",
+      "latitude": 50.8483431,
+      "longitude": 4.3435423
+    },
+    {
+      "name": "Jean-Félix Hap Garden",
+      "type": "Hidden Park",
+      "address": "Rue Jean-Baptiste Meunier, 1040 Etterbeek",
+      "neighborhood": "Etterbeek",
+      "why_visit": "A quiet, romantic garden with a 19th-century gazebo, tucked away in the Etterbeek district. Perfect for relaxation after walking the Art Nouveau quarter—few tourists know it exists.",
+      "historical_context": "Originally the garden of a private mansion, now a public park. Surrounded by streets full of Art Nouveau houses, it preserves a slice of 19th-century bourgeois Brussels. The gazebo offers a lovely spot for contemplation.",
+      "architectural_style": null,
+      "visit_duration_minutes": 30,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Free",
+      "opening_hours": null,
+      "tips": "Combine with a visit to nearby Cauchie House (first weekend of the month). The Etterbeek area has excellent Art Nouveau facades.",
+      "nearby_food": [
+        "Local cafés on Avenue de Tervueren",
+        "Cinquantenaire area"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Parc_du_Cinquantenaire_30-05-06.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Parc_du_Cinquantenaire_30-05-06.JPG/500px-Parc_du_Cinquantenaire_30-05-06.JPG",
+      "wikipedia_title": "List of parks and gardens in Brussels",
+      "latitude": 50.8398,
+      "longitude": 4.3915
+    },
+    {
+      "nearby_food": [
+        "Place Sainte-Catherine seafood restaurants",
+        "Rue Dansaert trendy bars"
+      ],
+      "architectural_style": [
+        "Baroque"
+      ],
+      "booking_notes": "For events only | Usually open Mon-Fri during business hours. Free entry to the courtyard.",
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)",
+        "gemini2.md"
+      ],
+      "tips": "Enter through the passageway at Rue de Flandre 46. The courtyard alone is worth the visit. Check their calendar for performances in this intimate, magical setting.",
+      "neighborhood": "City Center",
+      "why_visit": "A secret baroque masterpiece hidden down a passageway, featuring a stunning 17th-century facade protected by a contemporary glass roof. It feels like discovering a piece of Grand-Place that wandered away and hid. | A secret spot. From the street, you see a normal building. Walk through the corridor to the courtyard to find a spectacular Baroque facade (from 1697) preserved under a modern glass roof.",
+      "type": "Baroque Mansion / Cultural Center",
+      "historical_context": "Designed by Jean Cosyn in 1697 (who also created buildings on Grand-Place). Named after Bellona, Roman goddess of war, whose statue crowns the door. The facade celebrates the 1697 Battle of Zenta. Glass roof added in 1995 by architect Olivier Noterman. Now a performing arts center hosting exhibitions, theatre, and debates. | Baroque facade from 1697",
+      "address": "Rue de Flandre 46, 1000 Brussels",
+      "priority": "hidden-gem",
+      "visit_duration_minutes": 60,
+      "booking_required": false,
+      "name": "La Bellone (House of Performing Arts)",
+      "price": "Free (gallery); events vary",
+      "opening_hours": "Mon-Fri business hours",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Myriam_Van_Imschoot.jpeg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Myriam_Van_Imschoot.jpeg/500px-Myriam_Van_Imschoot.jpeg",
+      "wikipedia_title": "Myriam Van Imschoot",
+      "latitude": 50.8513523,
+      "longitude": 4.3463895
+    },
+    {
+      "name": "La Fleur en Papier Doré",
+      "type": "Historic Café",
+      "address": "Rue des Alexiens 53-55, 1000 Brussels",
+      "neighborhood": "Sablon",
+      "why_visit": "The legendary café where René Magritte and the Belgian Surrealists gathered. Walls covered in drawings, collages, and aphorisms from decades of artistic patronage. Later a favorite of the CoBrA movement.",
+      "historical_context": "Founded in 1927, this café became the unofficial headquarters of Belgian Surrealism. The walls, stained from years of smoke and creativity, are covered with original works and messages left by generations of artists. The name means 'The Gilded Paper Flower'—fittingly surreal.",
+      "architectural_style": null,
+      "visit_duration_minutes": 75,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Beer/wine €4-7",
+      "opening_hours": null,
+      "tips": "Located near the Sablon, making it a perfect post-antique-shopping stop. The atmosphere is best appreciated with a good local beer and unhurried contemplation of the eclectic wall decorations.",
+      "nearby_food": [
+        "Sablon restaurants and chocolate shops"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bruxelles_rue_des_Alexiens_55_901.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bruxelles_rue_des_Alexiens_55_901.jpg/500px-Bruxelles_rue_des_Alexiens_55_901.jpg",
+      "wikipedia_title": "Het Goudblommeke in Papier",
+      "latitude": 50.8429396,
+      "longitude": 4.3507966
+    },
+    {
+      "name": "La Pharmacie Anglaise",
+      "type": "Cocktail Bar",
+      "address": "Place des Palais 15, 1000 Brussels",
+      "neighborhood": "Royal Quarter",
+      "why_visit": "Ring the doorbell to enter this cocktail bar housed in a former 19th-century pharmacy. Inside: a steampunk cabinet of curiosities with animals preserved in jars, a stuffed lion, oriental rugs, and expertly crafted cocktails.",
+      "historical_context": "The building retains its original pharmacy elements, now combined with eccentric collections that create an atmosphere somewhere between Victorian science lab, colonial curiosity cabinet, and Art Deco lounge. Part of Brussels' growing speakeasy scene.",
+      "architectural_style": [
+        "Victorian",
+        "Art Deco"
+      ],
+      "visit_duration_minutes": 90,
+      "priority": "hidden-gem",
+      "booking_required": true,
+      "booking_notes": "Recommended",
+      "price": "Cocktails €12-15",
+      "opening_hours": null,
+      "tips": "Book ahead—it fills up quickly. The mixologists are serious about their craft. Located at Mont des Arts, perfect for post-museum drinks.",
+      "nearby_food": [
+        "Mont des Arts restaurants",
+        "Sablon dining"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Brussels_Delacre_pharmacy.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Brussels_Delacre_pharmacy.jpg/500px-Brussels_Delacre_pharmacy.jpg",
+      "wikipedia_title": "La Pharmacie Anglaise",
+      "latitude": 50.8426279,
+      "longitude": 4.3627154
+    },
+    {
+      "name": "Laeken Cemetery Crypt",
+      "type": "Underground Cemetery",
+      "address": "Laeken Cemetery, Parvis Notre-Dame, 1020 Laeken",
+      "neighborhood": "Laeken",
+      "why_visit": "Walk through 300 meters of underground burial galleries where over 4,000 people rest in vaults dating from the 1880s. Light filters through small square windows in the ceiling, creating an eerie half-light.",
+      "historical_context": "Brussels' oldest cemetery, dating to the 13th century. The underground crypt was inaugurated in 1878. Early wooden coffins deteriorated, causing notorious problems that led to major restoration work completed in 2017. Many notable Belgians rest here, including famous artists and politicians.",
+      "architectural_style": null,
+      "visit_duration_minutes": 40,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "booking_notes": "Tours can be arranged",
+      "price": "Free",
+      "opening_hours": "Cemetery open daily 8:30am-4pm",
+      "tips": "Entrance via stairs in the cemetery grounds. Combine with nearby Royal Greenhouses (if open) and Japanese Tower/Chinese Pavilion.",
+      "nearby_food": [
+        "Limited options; return to city center"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cimeti%C3%A8re_de_Laeken_11.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cimeti%C3%A8re_de_Laeken_11.JPG/500px-Cimeti%C3%A8re_de_Laeken_11.JPG",
+      "wikipedia_title": "Laeken Cemetery",
+      "latitude": 50.8788,
+      "longitude": 4.3521
+    },
+    {
+      "name": "Le Cercueil (The Coffin)",
+      "type": "Theme Bar",
+      "address": "Rue des Harengs 10, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "Drink from skull-shaped mugs while sitting at coffin tables. This Halloween-themed bar near Grand-Place serves 'Vampire Blood' and 'Devil's Sperm' cocktails amid skeletons, black velvet, and intentionally creepy decor.",
+      "historical_context": "One of Brussels' most unusual concept bars, it plays on the city's love of the macabre and surreal. The setting feels like a permanent Halloween party, complete with glow-in-the-dark skeletons and metal music.",
+      "architectural_style": null,
+      "visit_duration_minutes": 60,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Beers €4-7",
+      "opening_hours": null,
+      "tips": "Order Tête de Mort (Death's Head) beer, served in a skull glass. More for the experience than intimate conversation—music is loud. Reasonable prices for the central location.",
+      "nearby_food": [
+        "Rue des Bouchers restaurants",
+        "Grand-Place area"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kaasmarkt_-_Brussels%2C_Belgium_-_panoramio.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kaasmarkt_-_Brussels%2C_Belgium_-_panoramio.jpg/500px-Kaasmarkt_-_Brussels%2C_Belgium_-_panoramio.jpg",
+      "wikipedia_title": "Rue du Marché aux Fromages",
+      "latitude": 50.8469758,
+      "longitude": 4.3531859
+    },
+    {
+      "nearby_food": [
+        "Square Ambiorix nearby has cafés"
+      ],
+      "architectural_style": [
+        "Art Nouveau"
+      ],
+      "booking_notes": "Required (first weekend of month only) | Very limited opening hours (often only weekends). Check the schedule religiously.",
+      "sources": [
+        "claude.md (hidden-gems)",
+        "gemini.md"
+      ],
+      "tips": "The interior is as impressive as the facade.",
+      "neighborhood": "Etterbeek",
+      "why_visit": "A spectacular 'poster facade' covered in sgraffito murals. One of Brussels' most photogenic Art Nouveau buildings, built by artist Paul Cauchie as a showcase for his decorative work. | Known for its incredible sgraffito facade (mural art). It is one of the most striking facades in Brussels.",
+      "type": "Historic House",
+      "historical_context": "Built 1905 by Paul Cauchie and his wife Caroline Voet, both decorators. The elaborate facade served as their artistic calling card. Open to public only since 1980s.",
+      "address": "Rue des Francs 5, 1040 Etterbeek",
+      "priority": "hidden-gem",
+      "visit_duration_minutes": 45,
+      "booking_required": true,
+      "name": "Maison Cauchie",
+      "price": "€8",
+      "opening_hours": "First weekend of each month only",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Maison_Cauchie-445.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Maison_Cauchie-445.jpg/500px-Maison_Cauchie-445.jpg",
+      "wikipedia_title": "Cauchie House",
+      "latitude": 50.8384342,
+      "longitude": 4.3953451
+    },
+    {
+      "name": "Maison Saint-Cyr",
+      "type": "Architectural Landmark",
+      "address": "Square Ambiorix 11, 1000 Brussels",
+      "neighborhood": "EU Quarter",
+      "why_visit": "The most flamboyant, over-the-top Art Nouveau facade in the city. Designed by Gustave Strauven (a student of Horta), it is only 4 meters wide but explodes with twisted ironwork. It looks like something out of a Tim Burton movie.",
+      "historical_context": null,
+      "architectural_style": [
+        "Art Nouveau"
+      ],
+      "visit_duration_minutes": 15,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "booking_notes": "Exterior only",
+      "price": null,
+      "opening_hours": null,
+      "tips": null,
+      "nearby_food": null,
+      "sources": [
+        "gemini2.md"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Maison_Saint-Cyr_%28DSCF7558%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Maison_Saint-Cyr_%28DSCF7558%29.jpg/500px-Maison_Saint-Cyr_%28DSCF7558%29.jpg",
+      "wikipedia_title": "Saint-Cyr House",
+      "latitude": 50.8477951,
+      "longitude": 4.3839287
+    },
+    {
+      "nearby_food": [
+        "Plus Que Jamais",
+        "La Clef d'Or",
+        "Traditional estaminets (pubs) in Marolles"
+      ],
+      "architectural_style": null,
+      "sources": [
+        "chatgpt.md (hidden-gems)",
+        "claude.md (hidden-gems)"
+      ],
+      "tips": "For an old-school bite, step into Plus Que Jamais or La Clef d'Or, classic cafes where you can try a local brew or pêket (juniper gin). Look for the giant fresco of Jacques Brel. | Bargaining is expected. Try Rue Haute and Rue Blaes for antique shops.",
+      "neighborhood": "Marolles",
+      "why_visit": "Every morning, the Place du Jeu de Balle turns into a sprawling flea market. It's a treasure hunt and cultural experience in one. After browsing, take the free glass elevator at Place Poelaert for a sweeping view over the city. | Brussels' most atmospheric flea market in the historic Marolles neighborhood. Antiques, vintage finds, and local character. This is where Tintin found the Unicorn model ship.",
+      "type": "Local Flavor / Panorama",
+      "historical_context": "The Palace of Justice is a behemoth 19th-century building dominating the skyline. The Marolles' rue Haute and rue Blaes feature quirky design shops, brasseries and street art. | Market operating since 1873. The square was originally used for 'balle pelote' ball game. The Marolles was historically Brussels' working-class neighborhood.",
+      "address": "Place du Jeu de Balle, 1000 Brussels",
+      "priority": "hidden-gem",
+      "visit_duration_minutes": 90,
+      "booking_required": false,
+      "name": "Marolles Flea Market & Poelaert View",
+      "price": "Free",
+      "opening_hours": "Daily, best early morning. Weekends have more vendors.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Marolles_from_Place_Poelaert%2C_Brussels_%28DSCF6759%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marolles_from_Place_Poelaert%2C_Brussels_%28DSCF6759%29.jpg/500px-Marolles_from_Place_Poelaert%2C_Brussels_%28DSCF6759%29.jpg",
+      "wikipedia_title": "Marollen",
+      "latitude": 50.8370045,
+      "longitude": 4.3458407
+    },
+    {
+      "name": "Matongé District",
+      "type": "Neighborhood",
+      "address": "Chaussée de Wavre area, 1050 Ixelles",
+      "neighborhood": "Ixelles",
+      "why_visit": "Brussels' vibrant African quarter. Colorful shops, hair salons, African restaurants, and a completely different atmosphere from tourist Brussels. Named after a district in Kinshasa.",
+      "historical_context": "Developed as African neighborhood from 1960s following Congolese independence. Strong ties to Brussels' colonial history with Congo. Now a multicultural hub.",
+      "architectural_style": null,
+      "visit_duration_minutes": 90,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Free",
+      "opening_hours": null,
+      "tips": "Try African food at one of the many restaurants. The fabric shops are excellent for colorful souvenirs.",
+      "nearby_food": [
+        "Numerous African restaurants serving Congolese and West African cuisine"
+      ],
+      "sources": [
+        "claude.md (hidden-gems)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/MAISON-40.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/MAISON-40.jpg/500px-MAISON-40.jpg",
+      "wikipedia_title": "Ixelles",
+      "latitude": 50.8293,
+      "longitude": 4.369
+    },
+    {
+      "name": "Parc Pierre Paulus",
+      "type": "Park",
+      "address": "Near Parvis de Saint-Gilles metro, 1060 Saint-Gilles",
+      "neighborhood": "Saint-Gilles",
+      "why_visit": "One of Brussels' most romantic hidden parks. Built on a steep slope with ponds, bridges, and recently restored 19th-century features. A secret oasis near the Art Nouveau quarter.",
+      "historical_context": "Created in late 19th century in a natural valley. Named after Belgian painter Pierre Paulus. Recently restored to its former glory.",
+      "architectural_style": null,
+      "visit_duration_minutes": 30,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Free",
+      "opening_hours": null,
+      "tips": "Entrance can be hard to find, next to Parvis de Saint-Gilles metro. Perfect break when exploring Saint-Gilles Art Nouveau.",
+      "nearby_food": [
+        "Parvis de Saint-Gilles has excellent cafés and restaurants"
+      ],
+      "sources": [
+        "claude.md (hidden-gems)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Parc_du_Cinquantenaire_30-05-06.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Parc_du_Cinquantenaire_30-05-06.JPG/500px-Parc_du_Cinquantenaire_30-05-06.JPG",
+      "wikipedia_title": "List of parks and gardens in Brussels",
+      "latitude": 50.8218,
+      "longitude": 4.353
+    },
+    {
+      "name": "Royal Greenhouses of Laeken",
+      "type": "Historic Greenhouses / Royal Estate",
+      "address": "Avenue du Parc Royal, 1020 Laeken",
+      "neighborhood": "Laeken",
+      "why_visit": "A glass city of extraordinary Victorian greenhouses, only open to the public for three weeks each spring. The architecture rivals any palace, and the plant collections include specimens from King Leopold II's era.",
+      "historical_context": "Designed by Alphonse Balat (Victor Horta's mentor) starting in 1873 for King Leopold II. The complex took over 30 years to complete. The massive Winter Garden, Congo Greenhouse, and interconnected glass galleries form what was meant to be an 'Ideal Glass Palace.' Leopold II's ambition was to create a setting for international conferences.",
+      "architectural_style": [
+        "Victorian Glass",
+        "Iron and Glass"
+      ],
+      "visit_duration_minutes": 150,
+      "priority": "hidden-gem",
+      "booking_required": true,
+      "booking_notes": "Required (sells out fast)",
+      "price": "€7",
+      "opening_hours": "Open only 3 weeks in spring (April-May)",
+      "tips": "Opening dates announced in March; tickets go on sale about 2 weeks before opening and sell out quickly. Choose between 2km and 3km routes. Evening 'nocturnes' offer magical illuminated visits.",
+      "nearby_food": [
+        "On-site facilities limited",
+        "Laeken has local options"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Royal_Palace_Laeken_from_the_Air.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Royal_Palace_Laeken_from_the_Air.jpg/500px-Royal_Palace_Laeken_from_the_Air.jpg",
+      "wikipedia_title": "Palace of Laeken",
+      "latitude": 50.8785409,
+      "longitude": 4.3564761
+    },
+    {
+      "name": "Rue de la Cigogne",
+      "type": "Historic Alley",
+      "address": "Rue de la Cigogne, 1000 Brussels (near Rue de Flandre)",
+      "neighborhood": "City Center",
+      "why_visit": "A tiny, flower-filled dead-end street with a picturesque 18th-century porch, epitomizing the hidden Brussels that tourists never find. On sunny days, locals sit outside their doors chatting—a scene unchanged for centuries.",
+      "historical_context": "Brussels once had many such 'impasses'—dead-end streets where workers and craftsmen lived. Most disappeared during modernization, but Rue de la Cigogne survives as a quintessential hidden gem. The name means 'Stork Street.'",
+      "architectural_style": null,
+      "visit_duration_minutes": 10,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Free",
+      "opening_hours": null,
+      "tips": "Best visited April-June when flowers bloom. Accessed via Rue Rempart des Moines or Rue de Flandre through an arch topped with a Saint Roch sculpture. Combine with La Bellone nearby.",
+      "nearby_food": [
+        "Place Sainte-Catherine",
+        "Rue Dansaert area"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/0_Amiens_-_Place_du_Don_-_Cath%C3%A9drale_%281%29.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/0_Amiens_-_Place_du_Don_-_Cath%C3%A9drale_%281%29.JPG/500px-0_Amiens_-_Place_du_Don_-_Cath%C3%A9drale_%281%29.JPG",
+      "wikipedia_title": "Amiens",
+      "latitude": 50.8513,
+      "longitude": 4.3459
+    },
+    {
+      "name": "Scène Speakeasy",
+      "type": "Speakeasy / Cocktail Bar",
+      "address": "Rue du Marché aux Poulets 40, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "A hidden 1920s-style speakeasy accessed through a Middle Eastern restaurant (Le Conteur). Upstairs, discover velvet walls, dim lighting, creative cocktails, and walls covered with Venetian masks you can wear after 11 PM.",
+      "historical_context": "Part of Brussels' growing speakeasy scene, Scène combines period design by Saar Zafrir with excellent mixology. The concept plays on prohibition-era secrecy, requiring guests to find their way through a functioning restaurant to reach the bar.",
+      "architectural_style": [
+        "Art Deco"
+      ],
+      "visit_duration_minutes": 90,
+      "priority": "hidden-gem",
+      "booking_required": true,
+      "booking_notes": "Recommended for weekends",
+      "price": "Cocktails €12-16",
+      "opening_hours": null,
+      "tips": "Walk through Le Conteur restaurant and head upstairs. The fusion gastronomy is also excellent if you want dinner before drinks. The mask wall is a unique touch for late-night revelry.",
+      "nearby_food": [
+        "Grand-Place area",
+        "Rue des Bouchers"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": null,
+      "thumbnail_url": null,
+      "wikipedia_title": null,
+      "latitude": 50.8486022,
+      "longitude": 4.3512098
+    },
+    {
+      "name": "Stockel Metro Station (Tintin Mural)",
+      "type": "Metro Station / Art Installation",
+      "address": "Stockel Station, Line 1 (eastern terminus)",
+      "neighborhood": "Woluwe-Saint-Pierre",
+      "why_visit": "A 135-meter-long mural featuring all 140 characters from Tintin, drawn by Hergé himself just before his death. The world's greatest tribute to Brussels' most famous comic creation, hidden in a suburban metro station.",
+      "historical_context": "Hergé created the sketches in 1982, months before his death in 1983. Studio Hergé completed the installation for the station's opening in 1988. The two-sided reliefs depict life-size characters from all 22 Tintin albums in unexpected juxtapositions. Brussels metro contains over 80 artworks across 69 stations.",
+      "architectural_style": null,
+      "visit_duration_minutes": 40,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Metro ticket (€2.40)",
+      "opening_hours": null,
+      "tips": "Ride to the end of Line 1 and spend time on the platform photographing the murals. Other notable metro art: Hankar station (Roger Somville's 'Notre Temps'), Thieffry (tinted mirrors), and Pannenhuis (surreal orange architecture).",
+      "nearby_food": [
+        "Stockel village has local cafés"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Tintin_and_Snowy_from_Tintin_in_the_Land_of_the_Soviets_%281929%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Tintin_and_Snowy_from_Tintin_in_the_Land_of_the_Soviets_%281929%29.jpg/500px-Tintin_and_Snowy_from_Tintin_in_the_Land_of_the_Soviets_%281929%29.jpg",
+      "wikipedia_title": "Tintin (character)",
+      "latitude": 50.8363,
+      "longitude": 4.46
+    },
+    {
+      "nearby_food": [
+        "Pub downstairs in the theatre",
+        "The bar IS the destination",
+        "Grand-Place restaurants nearby"
+      ],
+      "architectural_style": null,
+      "booking_notes": "Shows run in the evenings, a few times a week; check the schedule online. Reservations recommended as the venue is small. | Recommended for shows",
+      "sources": [
+        "chatgpt.md (hidden-gems)",
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "tips": "Don't worry about language too much – the exaggerated puppet gestures and the jovial crowd make it fun regardless. | Even without seeing a show, visit the bar for excellent Belgian beers among the eerie company of puppets. Shows mostly in French with Brusseleer dialect, but universally entertaining.",
+      "neighborhood": "City Center",
+      "why_visit": "Tucked in an alley off the Galeries Royales is Théâtre Royal de Toone, an XIXth-century puppet theater and one of Brussels' most atmospheric taverns. Creaky wooden beams, candlelight, and walls hung with puppets. | The last traditional puppet theatre in Brussels, hidden down a medieval alley steps from Grand-Place. Watch marionettes perform classics like Romeo & Juliet while surrounded by 1,400+ retired puppets in a 300-year-old tavern.",
+      "type": "Historic Tavern / Marionettes",
+      "historical_context": "This family-run institution (handed down through generations of puppet masters) performs satirical puppet shows. Even without seeing a show, you can drop into the pub downstairs and soak up the medieval guildhall vibe. | Founded in 1830 by Antoine 'Toone' Genty. Puppet theatre emerged in Brussels as subversive entertainment when Philip II of Spain closed theatres to prevent anti-Spanish sentiment. Nine generations of 'Toones' have maintained the tradition. Received European Heritage Label in 2024; Brussels' rod marionette tradition inscribed on UNESCO Intangible Heritage list in December 2025.",
+      "address": "Impasse Sainte-Pétronille, Rue du Marché aux Herbes 66, 1000 Brussels",
+      "priority": "hidden-gem",
+      "visit_duration_minutes": 120,
+      "booking_required": true,
+      "name": "Toone Puppet Theatre",
+      "price": "Show: €15; Bar: free",
+      "opening_hours": "Bar: Wed-Sun noon-midnight",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Belgium-6584_-_Poster_%2813935098629%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Belgium-6584_-_Poster_%2813935098629%29.jpg/500px-Belgium-6584_-_Poster_%2813935098629%29.jpg",
+      "wikipedia_title": "Royal Theatre Toone",
+      "latitude": 50.8473,
+      "longitude": 4.3543
+    },
+    {
+      "name": "Tropismes Bookshop",
+      "type": "Bookshop",
+      "address": "Galerie des Princes 11, 1000 Brussels",
+      "neighborhood": "City Center",
+      "why_visit": "One of Europe's most beautiful bookshops, hidden in a side gallery off the Galeries Royales Saint-Hubert. Mirrored walls, gilded columns, stucco ceilings, and an impressive mezzanine create a setting worthy of a palace.",
+      "historical_context": "Opened in 1984 in a space that was formerly a dance school and then a jazz club (the Blue Note). The location in the Galerie des Princes, built in 1847, provides the stunning 19th-century architecture. Primarily French-language but with some English titles.",
+      "architectural_style": [
+        "Neoclassical"
+      ],
+      "visit_duration_minutes": 45,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Free to browse",
+      "opening_hours": null,
+      "tips": "Don't miss the children's section upstairs, which offers views down into the main hall. Staff are knowledgeable and happy to recommend. Many visit just for photos, but buy something to support this gem.",
+      "nearby_food": [
+        "Galeries Saint-Hubert cafés",
+        "Chocolate shops",
+        "Nearby restaurants"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Galeries_royales_Saint-Hubert_Bruxelles.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Galeries_royales_Saint-Hubert_Bruxelles.JPG/500px-Galeries_royales_Saint-Hubert_Bruxelles.JPG",
+      "wikipedia_title": "Royal Saint-Hubert Galleries",
+      "latitude": 50.8481875,
+      "longitude": 4.3548831
+    },
+    {
+      "name": "Wiertz Museum",
+      "type": "Artist Studio Museum",
+      "address": "Rue Vautier 62, 1050 Ixelles",
+      "neighborhood": "Leopold Park",
+      "why_visit": "Monumental, macabre paintings in the original studio of Belgium's most controversial Romantic artist. Giant canvases depicting premature burial, madness, and Napoleonic battles in a space unchanged since the 1860s.",
+      "historical_context": "Antoine Wiertz (1806-1865) convinced the Belgian government to build this studio in exchange for donating his work. His huge paintings (one is 8.5m x 5.2m) couldn't fit anywhere else. Despised by critics including Baudelaire, his horror-themed works are now seen as foreshadowing Belgian Surrealism.",
+      "architectural_style": null,
+      "visit_duration_minutes": 50,
+      "priority": "hidden-gem",
+      "booking_required": false,
+      "price": "Free",
+      "opening_hours": "Note: Currently closed for renovation (check status before visiting)",
+      "tips": "Combine with the nearby Natural Sciences Museum. The works can be disturbing—themes include cannibalism, execution, and suicide. But the artistic ambition is undeniable.",
+      "nearby_food": [
+        "Leopold Park picnic spots",
+        "European Quarter cafés"
+      ],
+      "sources": [
+        "claude_hidden_gems.md (hidden-gems-additional)"
+      ],
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Wiertz_selbst_bildnis.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wiertz_selbst_bildnis.jpg/500px-Wiertz_selbst_bildnis.jpg",
+      "wikipedia_title": "Antoine Wiertz",
+      "latitude": 50.8371438,
+      "longitude": 4.3758372
+    }
+  ]
+}
